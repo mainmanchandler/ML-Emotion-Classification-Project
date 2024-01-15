@@ -1,0 +1,4 @@
+# Preface {.unnumbered}
+
+With the growing interest in Machine Learning and Natural Language Processing (NLP) there is an interest in using machine learning models to establish the emotion of user text. Learning if there are correlations between user text to other data characteristics is of interest in this report in determining online human behavior. The purpose of this report is to establish the connection between user Tweets against other characteristics such as population density, to determine if there is a relationship between these characteristics and a Tweets evaluated emotion. 
+

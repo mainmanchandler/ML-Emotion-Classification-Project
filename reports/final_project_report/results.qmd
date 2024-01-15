@@ -1,0 +1,33 @@
+##4 Results
+#4.1 Description of the Models
+The two models used in our project are logistic regression and multinomial naive bayes as mentioned above. Logistic regression is a type of model that estimates the parameters of a logistic model given a series of events. In our project, logistic regression is used to estimate the emotion of a given tweet. Logistic regression is a linear algorithm. Multinomial Naive Bayes on the other hand is a type of model that calculates the probability of inputted text by selecting the most fitting tag. In our project, it was also used to estimate the emotion of a given tweet. Multinomial Naive Bayes uses the Bayes theorem.
+
+#4.2 Performance Metrics
+For both of our models we evaluated their performance using accuracy. The built in accuracy functions were not giving the correct accuracy of our models however. To manually calculate it ourselves we first took a sample of 1000 rows and then created a column called “Ground Truth” representing the true emotion of the tweets. After that, we created two columns within the dataframes. The “Predictions” was used to hold the model predictions per row, and the “Match” was used to indicate whether or not the model's predictions matched the ground truth of the statement. 
+
+#4.3 Results Table
+	
+Metric / Model
+Logistic Regression
+Multinomial Naive Bayes
+Accuracy
+88.36%
+76.1%
+
+
+#4.4 Interpretation of the Results
+Interpreting the results above, we can see that there is just over a 12% difference in accuracy within our models. Logistic Regression was the better performing model due to Multinomial Naive Bayes having a higher bias and lower variance compared to Logistic Regression. This could cause a potential source of error due to underfitting in the Multinomial Naive Bayes model.
+
+#4.5 Visualization
+
+Taking a look at the following figure we can see the comparison between the Logistic Regression model, Multinomial Naive Bayes model, and perfect accuracy.
+
+
+
+#4.6 Sensitivity Analysis 
+	A sensitivity analysis was conducted to test the robustness of the models. The train and test split proportions were optimally chosen by testing a multitude of options. We found that an 80:20 split led to the highest accuracy within both models used.
+
+
+
+
+

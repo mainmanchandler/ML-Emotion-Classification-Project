@@ -1,0 +1,15 @@
+##6 References
+Bias and variance in machine learning - javatpoint. www.javatpoint.com. (n.d.). Retrieved April 6, 2023, from https://www.javatpoint.com/bias-and-variance-in-machine-learning#:~:text=High%2DBias%2C%20Low%2DVariance,underfitting%20problems%20in%20the%20model
+What is Naïve Bayes | IBM. (n.d.). Www.ibm.com. https://www.ibm.com/topics/naive-bayes
+Naive Bayes vs Logistic Regression | Top 5 Differences You Should Know. (2021, September 27). EDUCBA. https://www.educba.com/naive-bayes-vs-logistic-regression/
+‌Multinomial Naive Bayes Explained: Function, Advantages & Disadvantages, Applications in 2022. (2021, January 3). UpGrad Blog. https://www.upgrad.com/blog/multinomial-naive-bayes-explained/#:~:text=The%20Multinomial%20Naive%20Bayes%20algorithm%20is%20a%20Bayesian%20learning%20approach
+Ayush Pant. (2019, January 22). Introduction to Logistic Regression. Medium; Towards Data Science. https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+Sperandei, S. (2014). Understanding Logistic Regression Analysis. Biochemia Medica, 24(1), 12–18. https://doi.org/10.11613/bm.2014.003
+Geeksforgeeks. (2017, May 22). Removing stop words with NLTK in Python. GeeksforGeeks. https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
+Khanna, C. (2021, February 10). Text pre-processing: Stop words removal using different libraries. Medium. https://towardsdatascience.com/text-pre-processing-stop-words-removal-using-different-libraries-f20bac19929a#:~:text=Why%20do%20we%20remove%20stop
+scikit-learn. (2019). scikit-learn: machine learning in Python. Scikit-Learn.org. https://scikit-learn.org/stable/
+Kukunuri, R. (2018, December 5). Logistic Regression and it’s applications in Natural Language Processing. Medium. https://medium.com/@rithwikkukunuri30/logistic-regression-and-its-applications-in-natural-language-processing-5f835c901fa7
+Multinomial Naive Bayes Explained: Function, Advantages & Disadvantages, Applications in 2022. (2021, January 3). UpGrad Blog. https://www.upgrad.com/blog/multinomial-naive-bayes-explained/#:~:text=The%20Multinomial%20Naive%20Bayes%20algorithm%20is%20a%20Bayesian%20learning%20approach
+eiki. (2019, January 4). Natural Language Processing: Naive Bayes Classification in Python. Medium. https://medium.com/@eiki1212/natural-language-processing-naive-bayes-classification-in-python-e934365cf40c
+Ratz, A. V. (2022, April 8). Multinomial Naїve Bayes’ For Documents Classification and Natural Language Processing (NLP). Medium. https://towardsdatascience.com/multinomial-na%C3%AFve-bayes-for-documents-classification-and-natural-language-processing-nlp-e08cc848ce6
+sklearn.feature_extraction.text.CountVectorizer — scikit-learn 0.20.3 documentation. (2018). Scikit-Learn.org. https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html

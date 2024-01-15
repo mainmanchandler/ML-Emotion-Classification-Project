@@ -1,0 +1,13 @@
+##1 Introduction to the Project
+#1.1 Overview
+Established in the abstract and preface, the purpose of this machine learning project is to establish a connection between user emotion and the following objectives listed within the abstract and below. The main purpose of this investigation is to compare the performance of two machine learning models in the use of NLP for emotional analysis in text and to determine the most effective approach for the dataset chosen. The models will be run against the dataset to determine the answers to the objectives listed and provide insight into which model performs the best for this particular application. In the following information covered in the report, the process of data collection, methodology, and results will be discussed in further detail.
+
+#1.2 Objectives of Project
+The objective of this project is to understand the relationship between tweets and the text within them to determine the answers to the questions based on the statistics derived from the datasets:
+relationship between the emotion/sentiment of tweets based on the time of day.
+relationship between the emotion/sentiment of tweets based on user age.
+relationship between the emotion/sentiment of tweets based on geographical land size.
+relationship between the emotion/sentiment of tweets based on population density.
+relationship between the emotion/sentiment of tweets based on country.
+
+

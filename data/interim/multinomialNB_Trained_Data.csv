@@ -1,0 +1,800 @@
+ID,Tweet,Sentiment,Time,Age,Country,Population -2020,Land Area (KmÂ²),Density (P/KmÂ²),Ground Truth,Predictions,Match
+d1d7ed938d, great site photos fantastic useful visit pembroke inc skomer june,positive,morning,46-60,Egypt,102334404,995450,103,happiness,['happiness'],True
+be0a927a80,_n  too want ooze speaking either why lame jokes wiping social media shoe lol,neutral,noon,60-70,Guinea-Bissau,1968001,28120,70,df,['df'],True
+6b4eb2871c,thanks link ive voted  ill send too,positive,noon,21-30,Bulgaria,6948445,108560,64,df,['happiness'],False
+9c503adc87,also liptons sparkling green tea gross,neutral,noon,21-30,Somalia,15893222,627340,25,disgust,['disgust'],True
+3e1f7acd3c,know lender was yea people definitely sucked butt toes friendly helpful,negative,night,70-100,Monaco,39242,1,26337,anger,['anger'],True
+c818fdf4b8,sun turned blancmange sucks pale,negative,night,70-100,"Eswatini (fmr. ""Swaziland"")",1160164,17200,67,sadness,['sadness'],True
+b01c96b216, you,neutral,noon,21-30,Paraguay,7132538,397300,18,df,['happiness'],False
+c5a47367cc,come join fun first pitch legends game may th   pm ,neutral,morning,0-20,Timor-Leste,1318445,14870,89,happiness,['happiness'],True
+a16aa7fcc4,happy mothers day gr day,positive,morning,0-20,Haiti,11402528,27560,414,happiness,['happiness'],True
+553beefa8b,ever since orchid quit drinking bottle eating us house home holy  girl still drinking milk though,neutral,noon,60-70,Nicaragua,6624554,120340,55,surprise,['surprise'],True
+905ae17f24,walk  workabout  minsthink makes worse improves indoors tho,neutral,noon,21-30,Switzerland,8654622,39500,219,sadness,['sadness'],True
+684b2dcea7,good one,positive,noon,60-70,Germany,83783942,348560,240,df,['happiness'],False
+c4cad35b0f,comp deleted half apps,negative,night,70-100,Comoros,869601,1861,467,sadness,['sadness'],True
+5552d4fffb,oh ladies suffer lol,neutral,morning,46-60,Rwanda,12952218,24670,525,df,['happiness'],False
+9d605483af,mc john sim posit  yr passed softees stranded without warren tea tech spec kaching ,neutral,morning,0-20,Timor-Leste,1318445,14870,89,df,['df'],True
+20290b6985,thats gorgeous ill check new pics,positive,noon,60-70,Denmark,5792202,42430,137,happiness,['happiness'],True
+c2484278c9,mm films usually handled fuji oh met girl san diego kwento soon miss youuu,negative,night,70-100,Sierra Leone,7976983,72180,111,happiness,['happiness'],True
+51f650a1a9,glad liked it hes done loads arrangements one could find blip,positive,morning,46-60,Dominica,71986,750,96,happiness,['happiness'],True
+54477f9f5c,melissa_leah car wont start,negative,morning,46-60,Ireland,4937786,68890,72,sadness,['sadness'],True
+9c52e5ba66, love days school one friday,positive,night,70-100,Pakistan,220892340,770880,287,happiness,['happiness'],True
+4e93939f99, weekend standby duty,neutral,noon,60-70,Libya,6871292,1759540,4,df,['df'],True
+34b20a06ef,awoooogahhhhhh heheee hope get decently priced breakfast real quick david,positive,night,31-45,Senegal,16743927,192530,87,happiness,['happiness'],True
+66095230ee,spending qt hubby,positive,night,31-45,United Kingdom,67886011,241930,281,happiness,['happiness'],True
+be266a8cef,huh ill try for reason try,neutral,noon,60-70,Fiji,896445,18270,49,df,['happiness'],False
+0435d42f80,mad hell someone stole pink  black leapord print pumps wanted wear today god glory hell bless abundantly,negative,night,31-45,Mexico,128932753,1943950,66,anger,['anger'],True
+54fb6ac46e,kisses screwed ill raggy old cat woman ha im pretty sure,negative,noon,60-70,Samoa,198414,2830,70,happiness,['happiness'],True
+aff624f133,thanx tom love u  great day,positive,morning,0-20,Vanuatu,307145,12200,25,happiness,['happiness'],True
+0ba8d6cdb3,actually planning working  wth alas meetings kaiboshed plan,neutral,morning,46-60,Kazakhstan,18776707,2699700,7,df,['df'],True
+4633886fcf,side  seat loner please starbucks there,neutral,morning,0-20,Egypt,102334404,995450,103,sadness,['df'],False
+4ce03d596c,want travel little,neutral,noon,21-30,Grenada,112523,340,331,happiness,['sadness'],False
+fff190b4af,burden abit fail lunch dan,negative,night,31-45,Ecuador,17643054,248360,71,sadness,['happiness'],False
+bc6cc9565c,still raining bayi forget sunshine looks like ,negative,night,31-45,Pakistan,220892340,770880,287,sadness,['sadness'],True
+26702e60d9,dream u like,negative,night,31-45,South Africa,59308690,1213090,49,sadness,['sadness'],True
+99f9b82224,happy mothers day moms,positive,morning,46-60,Norway,5421241,365000,15,happiness,['happiness'],True
+03a3f63189,fee pain lady ga ga drive insane oh dear god songs head,negative,night,70-100,Madagascar,27691018,581795,48,fear,['fear'],True
+b2fa4959e7,stian lacroix bankrupt sad,negative,noon,60-70,Guinea-Bissau,1968001,28120,70,sadness,['sadness'],True
+fc9b461812,good plan peg plus like sound money monday,positive,night,70-100,Zimbabwe,14862924,386850,38,happiness,['happiness'],True
+9834c18bbd,waitin fall boy,neutral,noon,60-70,Angola,32866272,1246700,26,df,['df'],True
+2a9765b7f9,give easily,negative,night,31-45,Gambia,2416668,10120,239,sadness,['sadness'],True
+ce6a3a4f2f,standing ovation wieters nobody sitting down insane hit double play though,positive,noon,60-70,Armenia,2963243,28470,104,df,['surprise'],False
+b3edc4f9bb,stay away home since part india dnt hav gud wireless internet im ,negative,night,31-45,Thailand,69799978,510890,137,sadness,['sadness'],True
+ad6c3de0ae,saying goodbye something familiar never becomes familiar,negative,night,70-100,Croatia,4105267,55960,73,sadness,['sadness'],True
+cb485c99a5,starting get sad,negative,night,31-45,Ghana,31072940,227540,137,sadness,['sadness'],True
+4c2e5f9b2c,hi bruce trying eat healthy kinda scary read eat that maggots rat hair food,neutral,night,31-45,Namibia,2540905,823000,3,fear,['fear'],True
+b77945b86e,whaa really should   definitely optional though liked them im also crazy,positive,morning,46-60,Nauru,10824,20,541,df,['happiness'],False
+3932877e2b,dammit passes still work,negative,morning,46-60,Dominica,71986,750,96,anger,['sadness'],False
+4c8908e55c,more,negative,noon,21-30,Tuvalu,11792,30,393,df,['df'],True
+63a116ae1b,see  sec clip new moon trailer etonlinecom check out big tease though,negative,morning,0-20,Austria,9006398,82400,109,surprise,['surprise'],True
+9352776c41,today longest day ever going sleep beach bound tomorrow good night twitter,neutral,morning,46-60,Bosnia and Herzegovina,3280819,51000,64,disgust,['happiness'],False
+f36ca75512,ashlie thank you made feel little better,positive,noon,21-30,Fiji,896445,18270,49,happiness,['sadness'],False
+32c20a8817,ill guess see everyone weekend gunna major tweet cravings entire time,neutral,morning,0-20,Bahrain,1701575,760,2239,sadness,['sadness'],True
+95410148bf,little beetle feeling love searches bring zilch bar  peeps appear funny ,positive,night,31-45,Suriname,586632,156000,4,sadness,['sadness'],True
+a0e2fdc0e2,june th sat,neutral,night,31-45,Guatemala,17915568,107160,167,df,['df'],True
+8d1413e0fa,negghead mix air ,neutral,morning,0-20,Rwanda,12952218,24670,525,df,['df'],True
+3eab4d3d25,_joyner cant even tell me  done professionally  ,negative,night,31-45,United Kingdom,67886011,241930,281,anger,['happiness'],False
+b7593875b9,hurts breathe again why,negative,morning,0-20,Nauru,10824,20,541,fear,['df'],False
+c6d0332935,aww  okwe ended getting later expected didnt goi would called able to c u n austin,neutral,morning,0-20,Yemen,29825964,527970,56,sadness,['sadness'],True
+69ddcd6dfb,hahah love them,positive,morning,46-60,Singapore,5850342,700,8358,happiness,['happiness'],True
+af36799256,must insist write essays twitter way   characters,neutral,morning,0-20,United States of America,331002651,9147420,36,df,['df'],True
+822f5140fb,neither could i looked ebay like  euro two doubt parents would fork amount,negative,night,31-45,Equatorial Guinea,1402985,28050,50,sadness,['sadness'],True
+990cdeae87,want see david cook,positive,morning,46-60,Mali,20250833,1220190,17,happiness,['happiness'],True
+023a512e52,hahha drugs though,neutral,morning,0-20,Congo (Congo-Brazzaville),5518087,342000,16,df,['df'],True
+fe0573baea,love polaroid  shame make film anymore,neutral,night,70-100,Zimbabwe,14862924,386850,38,sadness,['sadness'],True
+0c640602c2,spend weekendto spend weekendthat hte question mind,negative,noon,60-70,Chad,16425864,1259200,13,df,['df'],True
+6a5ec5682e,ready dc tomorrow photo trippin,neutral,noon,60-70,Lebanon,6825445,10230,667,happiness,['happiness'],True
+04510889b6,_kill_boy oh sorry getting replies nothing you yes know nirvana,negative,night,70-100,Liechtenstein,38128,160,238,df,['sadness'],False
+a0fc51cb4d,weekend cuzzo vivi cant stand leave  weeks,negative,morning,0-20,Mozambique,31255435,786380,40,sadness,['sadness'],True
+c8f8d43d40,balance  unfortunately havent able find card limit high enough transfer whole thing,negative,noon,60-70,Romania,19237691,230170,84,sadness,['sadness'],True
+2f4647bf36,sadly robot songs library,negative,morning,0-20,Dominica,71986,750,96,sadness,['sadness'],True
+052fbbb0a9,sat alone whilst jay plays phone,neutral,night,31-45,Cabo Verde,555987,4030,138,sadness,['sadness'],True
+2fbae49319,f hours guess sleepin living room,neutral,noon,60-70,Israel,8655535,21640,400,df,['df'],True
+060ea6c6c8,ok super bored guess one else,negative,noon,60-70,Somalia,15893222,627340,25,sadness,['sadness'],True
+4bc2de8a68,sadly awake wondering contact info fun folks hung shop yay b miss guys,negative,noon,21-30,Zambia,18383955,743390,25,sadness,['happiness'],False
+68503bdeea,love stereosound hq headphones,positive,morning,0-20,Argentina,45195774,2736690,17,happiness,['happiness'],True
+397392f0d9,word,neutral,night,31-45,Algeria,43851044,2381740,18,df,['df'],True
+6e3eca51b2,kind like birthday days long,neutral,night,70-100,Comoros,869601,1861,467,df,['sadness'],False
+a3527a3ccc,j sorry bad night hopefully workout updates gave little humor night,neutral,morning,46-60,Solomon Islands,686884,28000,25,sadness,['sadness'],True
+28b70015d2,energy steadily increasing thankfully cough going away,neutral,night,70-100,Uzbekistan,33469203,425400,79,sadness,['sadness'],True
+20771a6d9a,anyone looking vinylclad playset  year mfr warranty  slides  swing slots rock climbing wall more amish built,neutral,morning,46-60,Congo (Congo-Brazzaville),5518087,342000,16,happiness,['anger'],False
+6beb4754f0,agree everybody wouldve excited goes ohhhh nooooo ms screws again,neutral,morning,46-60,Cuba,11326616,106440,106,sadness,['sadness'],True
+89e4eed832,one yet hopefully ill ponying one soon  definitely hitting wall,neutral,night,70-100,Uzbekistan,33469203,425400,79,sadness,['sadness'],True
+9ccb1bcd26,ha thats good thats love boys cos never stir hatred mighty red scum everyone loves city,positive,noon,60-70,Fiji,896445,18270,49,happiness,['happiness'],True
+2ef487bd7d,last night long drive slept really well time dinos wasstraat,positive,noon,60-70,Somalia,15893222,627340,25,happiness,['sadness'],False
+da769e9be5,dear god hope save it ssibleprojectcom,positive,morning,0-20,Norway,5421241,365000,15,fear,['happiness'],False
+bc21202d07,soooo sleepy gotta finish game lol gettt cavs whoop whoop,neutral,night,70-100,Maldives,540544,300,1802,happiness,['sadness'],False
+f172eab046,used ozzy osbourne pillow mom threw out miss thing,negative,night,70-100,Tonga,105695,720,147,sadness,['sadness'],True
+e41ae07da9,twitter useful reminds people forgot ask given day also excellent inspiration,negative,night,31-45,Algeria,43851044,2381740,18,happiness,['happiness'],True
+9f85050671,waiting long line chickfila,neutral,morning,0-20,Benin,12123200,112760,108,sadness,['sadness'],True
+d5ebd5f984,win  sigh rakeem,positive,night,31-45,Australia,25499884,7682300,3,df,['df'],True
+6bd4a0b146,heading home sacramento continue writing windows server  r unleashed book weekend sigh windows,neutral,night,31-45,Maldives,540544,300,1802,df,['df'],True
+0d85e6d515,done disneyland kids knocked out stopped hotel bar grabbed grey goose  tonic way uppeace,positive,night,31-45,Lesotho,2142249,30360,71,happiness,['disgust'],False
+325f5384f6,mcdonalds make pineapple pies,neutral,night,31-45,Tonga,105695,720,147,sadness,['sadness'],True
+9321f3b74b,welcome,positive,noon,60-70,Fiji,896445,18270,49,df,['df'],True
+d8867e4d4e,im posh enough read tatler,neutral,noon,60-70,Sudan,43849260,1765048,25,sadness,['sadness'],True
+b333707153,also proof number  life  imaginary boyfriend named vince sad friends encourage so,negative,night,70-100,Saint Lucia,183627,610,301,sadness,['sadness'],True
+ae46261e69,confused do,neutral,night,70-100,Mexico,128932753,1943950,66,df,['df'],True
+4bf8205ece,hey sorry late replybut plan posting facebook twitpic,negative,night,70-100,Maldives,540544,300,1802,df,['df'],True
+2a7ced36f3,last song american rejects amazing song,positive,night,31-45,Turkey,84339067,770000,110,happiness,['happiness'],True
+f87ca95b1d,joe put new bulb spotlight,neutral,morning,0-20,Georgia,3989167,69490,57,happiness,['happiness'],True
+7a863bc462,watched wolverine yesterday  spur moment kinda thing awesome proud south african director,positive,noon,60-70,Somalia,15893222,627340,25,happiness,['happiness'],True
+21262aff48,thanks hoping allergies nasty flu,positive,noon,21-30,North Korea,25778816,120410,214,fear,['happiness'],False
+1608eddffc,ok sister going camping im mad work tomorrow fun,neutral,night,70-100,San Marino,33931,60,566,anger,['happiness'],False
+cc6aa5d2b3,stamford,neutral,noon,21-30,Kyrgyzstan,6524195,191800,34,df,['df'],True
+b74a9b6a6b,want wish happy mothers day two favorite moms world mom course sister happy moms day two,positive,night,31-45,Belize,397628,22810,17,happiness,['happiness'],True
+80a43d94a8,hey jkwish evenlyn happy mothers day tomora mei great day gift tickets see yas ere oz,positive,night,70-100,Liechtenstein,38128,160,238,happiness,['happiness'],True
+73e548424b,missed math trade,negative,morning,0-20,Cambodia,16718965,176520,95,sadness,['sadness'],True
+97a44eeb2c,sure ill chat sec heres thread ,neutral,noon,21-30,Iran,83992949,1630000,52,df,['df'],True
+2a20862961,raining past days actually sunny today well little while super cloudy,neutral,noon,21-30,Belgium,11589623,30280,383,sadness,['sadness'],True
+95e24ff91a,ie nearing  according stats ff  adoption rate amazes,positive,morning,0-20,Sweden,10099265,410340,25,df,['df'],True
+5eaa57f29f,gardening stuff ordered got returned sender damage need work get garden centre,negative,night,31-45,Slovenia,2078938,20140,103,sadness,['sadness'],True
+811ac4eeca,one lane stop go trafffffffic suckssss almost wwork thanks  miinnnesota roads,negative,night,31-45,Bolivia,11673021,1083300,11,anger,['happiness'],False
+165bcbe519,yes wanna come hang htown gurl u know whats up haha itll bangin gotta hang chick,positive,morning,0-20,Lithuania,2722289,62700,43,happiness,['happiness'],True
+2ebb6270b5,yucky time bring vaccuum go war house always spider reason cool,negative,night,70-100,Marshall Islands,59190,180,329,disgust,['disgust'],True
+f591304aec,thought saw atrak van turns alcohol team van,neutral,night,31-45,Iraq,40222493,434320,93,df,['df'],True
+b7a6df7f96,leaving work  cant get soon enough hope everyone great day,positive,morning,0-20,Greece,10423054,128900,81,sadness,['happiness'],False
+ee5b47b5a9,know exactly saying cool tapes better p,neutral,night,31-45,Panama,4314767,74340,58,df,['df'],True
+ceee292ebc,gah im jittery upset absolutely reason,negative,noon,60-70,Myanmar (formerly Burma),54409800,653290,83,sadness,['sadness'],True
+922777ecbd,soo happy today  going home bit sucks  meeting everyone aceness extreme lol cheesy p,neutral,morning,46-60,Bosnia and Herzegovina,3280819,51000,64,happiness,['happiness'],True
+9694a4db08,yeahi guess dont get company weekend wants come hang out,neutral,noon,21-30,Costa Rica,5094118,51060,100,sadness,['sadness'],True
+48a2a08d55,_pills punching bag here ive never touched it covered brothers sweat u use u want hehe,neutral,morning,0-20,South Korea,51269185,97230,527,disgust,['disgust'],True
+e1120cc659,yeah replied meant take photo drink laaazy didnt x,neutral,morning,46-60,Micronesia,115023,700,164,sadness,['df'],False
+e924fb4417,oh do bring soufflãâãâãâ½ home im full delicious one philly favs,positive,night,70-100,Vietnam,97338579,310070,314,happiness,['happiness'],True
+e256f4abbd,aww typing beyond graveimpressive,positive,morning,0-20,Mauritania,4649658,1030700,5,df,['df'],True
+17d1a66db4,kickboxing classes today pretty bummed still going work hard ,negative,noon,21-30,Holy See,801,0,2003,sadness,['sadness'],True
+ef22d695fd,im u need vent,positive,night,31-45,Finland,5540720,304000,18,happiness,['happiness'],True
+5a9e4ad38a,listening music super juniors korea like way sing dance hope someday meet them,positive,noon,60-70,Albania,2877797,27400,105,happiness,['happiness'],True
+3ab87ba2c0,_dig late see missed great time donnys birthday remember call monday,neutral,noon,21-30,Costa Rica,5094118,51060,100,df,['df'],True
+882d9426d0,_willhoit hoping ac fixed right you,positive,morning,0-20,Lithuania,2722289,62700,43,happiness,['happiness'],True
+a8da7904ac,great date last nighttried find cdcaves daniel hilariously fun,positive,noon,60-70,Colombia,50882891,1109500,46,happiness,['happiness'],True
+013854711a,thanks shir got caught commission get amazoncom gift certificates take one,positive,night,31-45,Bolivia,11673021,1083300,11,df,['df'],True
+545b1b920b,well poop guitar lesson canceled today im sad hope son feels better soon tho,neutral,noon,60-70,Estonia,1326535,42390,31,sadness,['sadness'],True
+a3c03380ec,courtney seems like cool chick  shes pretty,positive,morning,46-60,Qatar,2881053,11610,248,happiness,['happiness'],True
+49d301ec0d,want leave secretly know australia twenty times better america,positive,night,70-100,Suriname,586632,156000,4,sadness,['sadness'],True
+e17b606c9c,whoishonorsociety never wear pajama pants school ,neutral,noon,60-70,Albania,2877797,27400,105,disgust,['happiness'],False
+6899e9aa17,waaa octo drive cant go,negative,noon,21-30,Chad,16425864,1259200,13,sadness,['sadness'],True
+0e1dbb950b,babysitting hubby cam cam,neutral,noon,60-70,Slovakia,5459642,48088,114,df,['df'],True
+d1983228a6,twitter spam oh,neutral,morning,46-60,Mozambique,31255435,786380,40,sadness,['happiness'],False
+c675e8a554,oh yes happy star wars day may fourth you,positive,noon,21-30,Oman,5106626,309500,16,happiness,['happiness'],True
+d55030a05e,best weekend ever xxxxxxxxxxxxxxxxxxxxxx,positive,night,31-45,Italy,60461826,294140,206,happiness,['happiness'],True
+dd62e0b336,stomach hurts bad,negative,morning,46-60,Burundi,11890784,25680,463,sadness,['sadness'],True
+cc73efff2b,song slap face  ,negative,noon,60-70,Palestine State,5101414,6020,847,df,['happiness'],False
+e2f74fa54c,invited one beach short notice mean hell tell hrs before really,neutral,noon,21-30,Venezuela,28435940,882050,32,anger,['anger'],True
+40bd163bda,today going long day,neutral,noon,21-30,Romania,19237691,230170,84,sadness,['happiness'],False
+b8a77cd14c,oks yes infact chatted earlier nbin well,neutral,night,31-45,Belize,397628,22810,17,df,['df'],True
+e97f62830d, am wanna wake up shoo roommate shoo,neutral,morning,0-20,Micronesia,115023,700,164,sadness,['sadness'],True
+2b6017f8f5,slowest train ever stops everywhere missed quick train minutes,negative,noon,21-30,Togo,8278724,54390,152,anger,['df'],False
+2505a44c46,damnnn day came fast cherished moment,positive,morning,46-60,Mali,20250833,1220190,17,happiness,['happiness'],True
+81e7d3acf4,wong,neutral,noon,21-30,Armenia,2963243,28470,104,df,['df'],True
+5c83af1147,gourmet pizza  bleh pizza supposed greasy filthy cant eat pizza thats prepared chef,negative,noon,21-30,Libya,6871292,1759540,4,disgust,['sadness'],False
+8d95271054, hi facebook  whats wrong  cant add photos,negative,morning,46-60,Saint Vincent and the Grenadines,110940,390,284,anger,['anger'],True
+85b7cf8a0f,uhh congrats two years anniversary,positive,night,31-45,Peru,32971854,1280000,26,df,['df'],True
+cd1a90193c,happy mothers day,positive,night,70-100,Spain,46754778,498800,94,happiness,['happiness'],True
+2bdb19ccd3,oh lovely  one thing mums great at sounds yummy makin hungry here lol p,positive,morning,0-20,Dominica,71986,750,96,happiness,['happiness'],True
+b761b09fbd,finished exams almost moved halls leaving london tomorrow,neutral,night,70-100,Marshall Islands,59190,180,329,df,['df'],True
+56437e0860,know exactly mean ive lost many friends feel,negative,night,31-45,Zimbabwe,14862924,386850,38,sadness,['sadness'],True
+a26c1b566d,ive sent twitter invite poet friends im hoping come poetize would love  see poets poets,positive,noon,60-70,Mauritius,1271768,2030,626,happiness,['happiness'],True
+aac0a4e7c6,eating funnel cake mag fest,neutral,morning,46-60,France,65273511,547557,119,df,['df'],True
+b7aa227b03,worth it love free version iphone though,neutral,night,31-45,Guatemala,17915568,107160,167,df,['df'],True
+9ca53f2fb2,okay man hook hand kinda freaking right now,negative,night,31-45,Equatorial Guinea,1402985,28050,50,fear,['happiness'],False
+df398a774e,alrightim going get comp now go back ur party safe  fun,positive,morning,46-60,Singapore,5850342,700,8358,happiness,['happiness'],True
+6117fbee73,oh  sucks,negative,noon,21-30,Azerbaijan,10139177,82658,123,sadness,['happiness'],False
+f8b32c4484,wish were coming perth,neutral,night,70-100,Sierra Leone,7976983,72180,111,sadness,['sadness'],True
+ef5c7bb3fa,unfortunetly wish mean sometimes like twice yr theyll party always,negative,morning,0-20,Mongolia,3278290,1553560,2,sadness,['sadness'],True
+dba147c9f9,wanna say happy mothers day mommys,positive,night,31-45,Spain,46754778,498800,94,happiness,['happiness'],True
+167fb8ca91,done thank,positive,noon,21-30,Israel,8655535,21640,400,df,['happiness'],False
+a3da084834,must go strawberry fields,neutral,morning,46-60,Bahrain,1701575,760,2239,happiness,['sadness'],False
+6eda368e36,happy mothers day euch allen,positive,night,31-45,Barbados,287375,430,668,happiness,['happiness'],True
+a55fe11056,get grill taken care morning quick shot hands ask why,neutral,morning,46-60,Nauru,10824,20,541,df,['df'],True
+3b50246867,link per daughter usmobilereuterscommobilemanyarticleprdturlscomarticlebigmoneyidus,neutral,morning,46-60,Liberia,5057681,96320,53,df,['happiness'],False
+20f35978fb,im wit cha got home da reggae club wishin sexin somebody,positive,morning,0-20,Democratic Republic of the Congo,89561403,2267050,40,sadness,['sadness'],True
+4e9f3e5a03,heard one songs amazing voice stunned,positive,noon,21-30,Libya,6871292,1759540,4,happiness,['happiness'],True
+346ce6428b,bleargh never clean much house want work matter early wake up today sink laundry,negative,morning,0-20,Central African Republic,4829767,622980,8,sadness,['sadness'],True
+1ca884fc2c,cnews bad expected could done better today great show,positive,morning,46-60,Egypt,102334404,995450,103,surprise,['sadness'],False
+bcb1b79e4f,haha course thats favorite album time,positive,night,70-100,Iraq,40222493,434320,93,happiness,['happiness'],True
+78bfe50327,gmorning rain rain rain  care much,negative,night,70-100,Portugal,10196709,91590,111,sadness,['anger'],False
+e5b5debcdc, great buy lunch get  pay cut next month,positive,night,31-45,Brazil,212559417,8358140,25,sadness,['sadness'],True
+6b51e69aa9,u ,neutral,noon,60-70,Iran,83992949,1630000,52,df,['happiness'],False
+930dd5f91d,work leave berlin  car late arrival,neutral,night,31-45,Uganda,45741007,199810,229,df,['df'],True
+4213627c3c,still smell smoke kitchenfire,neutral,noon,60-70,Guinea-Bissau,1968001,28120,70,disgust,['disgust'],True
+f023803c3e,got news,neutral,morning,0-20,Malawi,19129952,94280,203,df,['sadness'],False
+558eca05f1,cant call im mexico know code,neutral,morning,0-20,Saint Vincent and the Grenadines,110940,390,284,sadness,['sadness'],True
+04b6314652,ima say smudge start calling people given malicious action pulled night,negative,morning,0-20,Brunei,437479,5270,83,fear,['happiness'],False
+5ee98dd6dc,definitely first time ive felt alive years super happy,positive,night,70-100,Monaco,39242,1,26337,happiness,['happiness'],True
+200a6a20e1,im going cali like two weeks cal,neutral,noon,21-30,Bangladesh,164689383,130170,1265,happiness,['happiness'],True
+e47fb0bfe5,stupid freshmen ruined theatre class get play warmup games rest school year,negative,noon,21-30,Mauritius,1271768,2030,626,anger,['anger'],True
+0da5b1c605,dead,negative,noon,21-30,Japan,126476461,364555,347,sadness,['sadness'],True
+ef30751b05,thats sad,negative,noon,21-30,Botswana,2351627,566730,4,sadness,['sadness'],True
+d32958f921,school finally test work yes im gunna miss alot ppl,negative,night,31-45,Namibia,2540905,823000,3,happiness,['happiness'],True
+67e9b94dcf,boys girls lie awww santa real either,neutral,night,70-100,Tonga,105695,720,147,anger,['anger'],True
+fec7fab22d,gotta get hoursbooo gooodnight,neutral,morning,46-60,Micronesia,115023,700,164,sadness,['sadness'],True
+f78d0594ce,bread oven room cleaned almost done things list today,neutral,night,31-45,Panama,4314767,74340,58,happiness,['happiness'],True
+e4a8bc33d2,hope wishes come true someday,positive,morning,0-20,Cuba,11326616,106440,106,happiness,['happiness'],True
+c6bf44e881,alas best offer small pony rowing boat,negative,night,31-45,Algeria,43851044,2381740,18,df,['df'],True
+9c44566550,whin park swings victory mine right,positive,morning,0-20,Congo (Congo-Brazzaville),5518087,342000,16,happiness,['sadness'],False
+4987bf323b,im trying fix it doesnt ahi dios mio u good lol,positive,morning,46-60,United States of America,331002651,9147420,36,sadness,['sadness'],True
+e082b8f404,best friend comingexcited,positive,noon,21-30,Montenegro,628066,13450,47,happiness,['happiness'],True
+8f2a36da4c,monday morning  lets whip code today,neutral,morning,46-60,China,1439323776,9388211,153,df,['happiness'],False
+1b022603d4,bout go bed happy mothers day ladies  especially th s takin care thier kids alonen love u momma,positive,noon,21-30,Malta,441543,320,1380,happiness,['happiness'],True
+9bb06e4848,check yourz rayne,neutral,night,70-100,Burkina Faso,20903273,273600,76,df,['happiness'],False
+547dd32f1f,day going way fast,neutral,morning,46-60,Trinidad and Tobago,1399488,5130,273,sadness,['happiness'],False
+441dcaef31,hayley williams pretty much amazzing,positive,morning,0-20,Yemen,29825964,527970,56,happiness,['happiness'],True
+04a9c22b52,better finish order little guy first tho sda,neutral,morning,0-20,Mongolia,3278290,1553560,2,df,['df'],True
+0919b2fd2c,need read fic again lost,neutral,morning,0-20,Argentina,45195774,2736690,17,sadness,['sadness'],True
+f564af8976,twitter slow,negative,noon,21-30,South Sudan,11193725,610952,18,sadness,['happiness'],False
+756300c03d,thanks gorgeous flowers,positive,morning,46-60,Latvia,1886198,62200,30,happiness,['happiness'],True
+fc0bf9b8e3,ah clean housefinally nice,positive,morning,46-60,Liberia,5057681,96320,53,happiness,['happiness'],True
+6721e006ff,veryyy upset cant go hacienda tonight stupid nuggets game,negative,night,70-100,Saint Lucia,183627,610,301,sadness,['sadness'],True
+b00cae87c5,need leave now tweet laters,neutral,morning,0-20,Central African Republic,4829767,622980,8,df,['sadness'],False
+e1dc15f28e,does lol none,positive,night,31-45,Mexico,128932753,1943950,66,df,['happiness'],False
+b943e7969b, still finishing errands trip tomorrow morning airport am,neutral,morning,0-20,Haiti,11402528,27560,414,sadness,['sadness'],True
+201d52df31,must brought bad weather states,negative,night,31-45,Burkina Faso,20903273,273600,76,sadness,['happiness'],False
+f65b5577e6,lmao back queens,positive,night,31-45,"Eswatini (fmr. ""Swaziland"")",1160164,17200,67,df,['happiness'],False
+2a16bf5fb2,theres nothing good tonight anyway sigjeans,negative,night,70-100,Comoros,869601,1861,467,sadness,['sadness'],True
+e9ad937f82,_mcfly lol nah  course get dvd first since already ordered it ill sign bebo tuesday then lol ,neutral,morning,46-60,Micronesia,115023,700,164,happiness,['happiness'],True
+78e2b887a1,mother drunk grrrreat okay mothers week,neutral,night,31-45,Czechia (Czech Republic),10708981,77240,139,sadness,['happiness'],False
+963555edfd,im thinking deserve award big shiny one,positive,night,70-100,Australia,25499884,7682300,3,happiness,['sadness'],False
+8e7d9da4e2,two rooms packed cleaned three go,neutral,morning,46-60,Egypt,102334404,995450,103,sadness,['sadness'],True
+2ff62cd38d,coffee hand sun shining window hope everyones great monday morning far monday  mr,positive,night,31-45,Jordan,10203134,88780,115,happiness,['happiness'],True
+5cc01962a2,going grocery store best friend,neutral,night,31-45,Ecuador,17643054,248360,71,happiness,['happiness'],True
+73b8b92762,starbucks mother,neutral,night,70-100,Portugal,10196709,91590,111,happiness,['happiness'],True
+d6e589391b,sounds cool post video,positive,morning,0-20,Belarus,9449323,202910,47,happiness,['happiness'],True
+5c452788b2,fam back big island said vog bad cant see ocean sad,negative,night,31-45,Syria,17500658,183630,95,sadness,['sadness'],True
+995f4ed2a2,thanks following means lot love hey monday,positive,night,31-45,Honduras,9904607,111890,89,happiness,['happiness'],True
+2823b638c9,got kansas city excited fun weekend family sis parker josh,positive,noon,60-70,Denmark,5792202,42430,137,happiness,['happiness'],True
+7d59117a75,putting  new consultants work week good feeling congrats offers,positive,morning,0-20,New Zealand,4822233,263310,18,happiness,['happiness'],True
+f750fe4fb2, saw us postal hiring done filling preapplication thingy show jobs open area,negative,morning,46-60,Greece,10423054,128900,81,sadness,['sadness'],True
+a57e876f09,morning hon breakfast cant decide,neutral,night,31-45,Portugal,10196709,91590,111,happiness,['happiness'],True
+96616bea90,trying win tickets comon dc,neutral,night,70-100,Algeria,43851044,2381740,18,happiness,['happiness'],True
+e0b28abe20,man u know things get interesting sometimes lolllim   good,positive,morning,46-60,Papua New Guinea,8947024,452860,20,df,['df'],True
+9e4228219d,too,neutral,morning,0-20,Palau,18094,460,39,df,['df'],True
+781d900e89,betos pizzeria banksville rd believe beachview area sorry answer like  years later,negative,night,70-100,Russia,145934462,16376870,9,df,['df'],True
+22e55199bd,cause give reason assume  sg,neutral,noon,60-70,Samoa,198414,2830,70,df,['sadness'],False
+1538798e8c,nnnnoooooo learned weve got frost warning tonight,negative,night,31-45,Comoros,869601,1861,467,anger,['anger'],True
+b75f6c9be9,crud say,neutral,night,31-45,Morocco,36910560,446300,83,sadness,['sadness'],True
+820f19ca44,missed tweets joe  time difference uk dont get fave supporters uk ,neutral,noon,60-70,United Arab Emirates,9890402,83600,118,happiness,['sadness'],False
+54a3eab849,making german apple slice nom nom nom,positive,night,31-45,Russia,145934462,16376870,9,happiness,['anger'],False
+9adccf6bf9,happy mothers day,positive,morning,46-60,Micronesia,115023,700,164,happiness,['happiness'],True
+8a51887698,hahaooh gorgeous wasn whole weekend follow ouchi blisters shoes yesterday,neutral,night,70-100,Namibia,2540905,823000,3,df,['df'],True
+9ae78ce646,ease use better camera syncs witunes smaller i looked storm eyeappealing  clunky just few,neutral,noon,21-30,Montenegro,628066,13450,47,happiness,['happiness'],True
+b3047d288a,moment over fly car,neutral,night,70-100,Bahamas,393244,10010,39,sadness,['happiness'],False
+014783185d,writersthey make wonderwhy foisting little pipe dreams stories head onto people like writing,neutral,morning,46-60,Singapore,5850342,700,8358,df,['df'],True
+1bc9031c89,wishes could one going conference bahamas next week,positive,morning,46-60,Andorra,77265,470,164,sadness,['sadness'],True
+3963d30729,  forgot lube  may need go er,neutral,night,70-100,South Africa,59308690,1213090,49,fear,['sadness'],False
+00cdbbc17c,actually progressive studying today,neutral,morning,0-20,China,1439323776,9388211,153,happiness,['happiness'],True
+d2754597c4,cant wait watch tonight show evening last one jay,neutral,morning,0-20,Cambodia,16718965,176520,95,happiness,['happiness'],True
+cba5154eae,kewl sounds good wait it thanks,positive,morning,0-20,Brunei,437479,5270,83,happiness,['happiness'],True
+3254ce8282,crash drive alone besides cant crash gotta work lol ,neutral,noon,21-30,North Korea,25778816,120410,214,happiness,['happiness'],True
+7325265617,yeah done several times dumerils boa times w prob wonder hognose needs bigger food,neutral,noon,21-30,Bangladesh,164689383,130170,1265,df,['happiness'],False
+441cc69df6,getting ready go ikea alone cuz one go,negative,night,70-100,Algeria,43851044,2381740,18,sadness,['sadness'],True
+67a8fd1f5b,doin homework ugh,negative,noon,21-30,Nepal,29136808,143350,203,sadness,['sadness'],True
+b6052e465f,baby miss,negative,night,31-45,Honduras,9904607,111890,89,sadness,['happiness'],False
+315851fcad,says diana wanna burn pics dvd cd svsc,negative,noon,21-30,Malta,441543,320,1380,df,['df'],True
+9311254c62,recorded new song today u wont hear long time thooo might play shows tho comeeeeee,neutral,morning,0-20,Andorra,77265,470,164,happiness,['happiness'],True
+b7e7e4bb8d,asorry hun im sure purpose though seems sweet maybe  hour thing s,negative,night,31-45,Burkina Faso,20903273,273600,76,sadness,['sadness'],True
+f653b12e0f,holy  raining la jacket oh no,negative,night,31-45,Finland,5540720,304000,18,sadness,['happiness'],False
+6f56e42577,leave alone accept appology,positive,night,70-100,Djibouti,988000,23180,43,sadness,['sadness'],True
+3b012ceed8,well hope good weekend even good day work moro already monday hereso far good,positive,night,31-45,Guatemala,17915568,107160,167,happiness,['happiness'],True
+22076dad91,thanx,neutral,noon,21-30,Mauritius,1271768,2030,626,df,['happiness'],False
+7fb66b3ad5,wish yallunfortunately able make itgotta work nd gig today,negative,noon,21-30,United Arab Emirates,9890402,83600,118,sadness,['sadness'],True
+3de5f8836e,misses much,negative,morning,0-20,Nigeria,206139589,910770,226,df,['sadness'],False
+3737e67016,braid free miss thee  blond come,neutral,noon,21-30,Mauritius,1271768,2030,626,happiness,['happiness'],True
+d7c602d34e,moon sooooo pretty,positive,noon,21-30,Zambia,18383955,743390,25,happiness,['happiness'],True
+7ef7bc5e68,finally friday things going different starting next weekmy house empty,neutral,night,70-100,Ghana,31072940,227540,137,happiness,['happiness'],True
+22bac2cdb7,second hit reply tweet asked stop playing music sad someone sing me key works,negative,morning,0-20,Egypt,102334404,995450,103,sadness,['sadness'],True
+603045ab40,s mum asked us thank introducing us kennys  were mothers day dinner,positive,morning,46-60,Latvia,1886198,62200,30,happiness,['happiness'],True
+1ec419afcc,good little saturday include bed bath beyond borders list cant wait tomorrow good day planned,positive,noon,21-30,Armenia,2963243,28470,104,happiness,['happiness'],True
+08513f136b,yeah great outside without rainsnow  cold air love sunny days,positive,noon,21-30,Romania,19237691,230170,84,happiness,['happiness'],True
+872784b2c4,empitome epic fail know epic fail,negative,noon,21-30,Mauritius,1271768,2030,626,happiness,['happiness'],True
+1f5d180807,thanks good tv simple that dollhouse,positive,morning,0-20,Mongolia,3278290,1553560,2,df,['df'],True
+32a95ba694,think so,neutral,night,31-45,United Kingdom,67886011,241930,281,df,['df'],True
+d95ff811cd,flirting ima good man bad habits,neutral,noon,60-70,Angola,32866272,1246700,26,happiness,['happiness'],True
+c1c67d1a99,smiling guys are turn speakers smilelife good smile,positive,morning,46-60,Indonesia,273523615,1811570,151,happiness,['happiness'],True
+65c7eae9b6,hello everyone im sitting rocking  sam air best classic rock station twitter,positive,morning,0-20,Burundi,11890784,25680,463,happiness,['happiness'],True
+660324ee3b,know need new iphone stat dropped mine cement  weeks ago couple rows pixels went,neutral,morning,46-60,Ireland,4937786,68890,72,sadness,['sadness'],True
+62dfbedcd9,ya prob dont want,negative,morning,46-60,Belarus,9449323,202910,47,df,['df'],True
+1e89a9ac1a,really even little bit pane,neutral,morning,0-20,Austria,9006398,82400,109,df,['happiness'],False
+05ee6aa24e,im finally going bed everybody whatever doing blessed,positive,night,31-45,Burkina Faso,20903273,273600,76,happiness,['happiness'],True
+9984b547fe,lovely mothers day,positive,noon,21-30,Kenya,53771296,569140,94,happiness,['happiness'],True
+074ec90ae2, kbal sorry feeling way,negative,morning,46-60,Sao Tome and Principe,219159,960,228,sadness,['sadness'],True
+16dd908d13,ss bad,negative,night,70-100,Equatorial Guinea,1402985,28050,50,sadness,['sadness'],True
+28b57f3990,smf  shameless plugging best rangers forum earth,neutral,night,70-100,Antigua and Barbuda,97929,440,223,df,['df'],True
+3de9819b40,mood shrimp scampi vermouth,negative,noon,21-30,Luxembourg,625978,2590,242,sadness,['df'],False
+96721ce35a,cant make nyc im huh,negative,morning,46-60,Yemen,29825964,527970,56,sadness,['sadness'],True
+e925ae4492,nooo font connoisseur totally relate dude heart goes,negative,night,31-45,Marshall Islands,59190,180,329,sadness,['sadness'],True
+eeb047e369,way back home crazy night coast,neutral,morning,46-60,Central African Republic,4829767,622980,8,happiness,['happiness'],True
+196ecaa275,tough that wanted hug like,negative,night,70-100,Italy,60461826,294140,206,sadness,['sadness'],True
+e807ce8289,moving today im excited,positive,noon,60-70,Poland,37846611,306000,124,happiness,['happiness'],True
+6e9c42d2b9,cant wish sleeping gotta work less  hours wait whatre u up,neutral,morning,46-60,Micronesia,115023,700,164,sadness,['sadness'],True
+1df8ab717d, ld come u could australia far away,negative,night,70-100,Senegal,16743927,192530,87,sadness,['sadness'],True
+2f17e1827b,getting work day hope everyone wonderful mothers day tomorrow hope enjoy ur cheesecakes too,positive,morning,46-60,Philippines,109581078,298170,368,happiness,['happiness'],True
+be4d616992,yucky last soccer game season todaytryouts start friday,negative,morning,0-20,South Korea,51269185,97230,527,sadness,['sadness'],True
+49a1fc4061,welcome twitter friend,positive,morning,0-20,Liberia,5057681,96320,53,df,['happiness'],False
+5a4ebbbdba,back bed,neutral,night,70-100,Peru,32971854,1280000,26,df,['happiness'],False
+e89db87d99,class  longggg day,negative,noon,21-30,Iceland,341243,100250,3,sadness,['happiness'],False
+a7ab603a60,ive problem too charmed fast mean ill cross fingers,negative,night,70-100,Cabo Verde,555987,4030,138,df,['sadness'],False
+55c8eb75d1,ok got nails done day sweet,positive,noon,60-70,Luxembourg,625978,2590,242,happiness,['happiness'],True
+7b07573767,said cant wear converse dress,neutral,noon,21-30,Dominican Republic,10847910,48300,225,happiness,['sadness'],False
+abec950aeb,babysitting text keep company,neutral,noon,60-70,Kenya,53771296,569140,94,df,['df'],True
+fcd9835a33,also rides giant squidswho knew ama hafta go ill try get later love ,positive,night,31-45,Gambia,2416668,10120,239,happiness,['happiness'],True
+5b1ef93aee,farewell dinner kimmy last time ill see,negative,night,31-45,Cabo Verde,555987,4030,138,sadness,['happiness'],False
+43abe86bad,glad hear good bank holiday weather,positive,morning,0-20,Bahrain,1701575,760,2239,happiness,['happiness'],True
+4a7e781a19,haha love surprises work til sunday tho wait,positive,morning,46-60,Palau,18094,460,39,happiness,['happiness'],True
+2c801b5366,knew it use love show happy weekend too,positive,morning,46-60,Ukraine,43733762,579320,75,happiness,['happiness'],True
+b44ef2a058,watching mens volleyball tv reason good womens beach volleyball cant quite place,negative,noon,60-70,Azerbaijan,10139177,82658,123,happiness,['happiness'],True
+a12bd20bfa,ahhh lincolnill runsee  hours,neutral,night,70-100,Belize,397628,22810,17,df,['df'],True
+f00bd4ea4e,aww thanx andy,positive,noon,60-70,Costa Rica,5094118,51060,100,happiness,['happiness'],True
+6daf0b55b6,fevers gone  thanks jen,positive,morning,46-60,Turkmenistan,6031200,469930,13,happiness,['happiness'],True
+00688f0441,yo somebodys mother came club dresses like going straight church club feel like im going hell  ,neutral,night,31-45,Finland,5540720,304000,18,happiness,['happiness'],True
+3a328cb991,france gonna spend time sun overcome negative reaction it yep netherlands good luck,neutral,morning,46-60,Vanuatu,307145,12200,25,df,['df'],True
+f7718b3c23,im going spiritual stagnentation exploding ego realise im great im ok that,neutral,noon,21-30,Bhutan,771608,38100,20,happiness,['happiness'],True
+7c8f3adcc4,okso im twittin computerits gonna bad get phone cause ima lost like ,negative,night,31-45,Chile,19116201,743532,26,sadness,['sadness'],True
+5b2e555419,meeting went well last nightthey shot promo air weekend mtv tried hide close think caught me,neutral,night,70-100,Cabo Verde,555987,4030,138,happiness,['df'],False
+e6617d0e5c,great hear u today u r best cannot wait see u cruise  cindy sign,positive,noon,60-70,South Sudan,11193725,610952,18,happiness,['happiness'],True
+6c8544613a,morning peeps need get know am ill around  ,neutral,noon,21-30,Colombia,50882891,1109500,46,df,['df'],True
+00f377c634,ya walked wall thats plaster neck,neutral,night,70-100,Burkina Faso,20903273,273600,76,sadness,['sadness'],True
+6327cee322,itv plugging special lot great night you miss tweets come back home,neutral,morning,0-20,China,1439323776,9388211,153,df,['happiness'],False
+93b22f1829,yay  sherbert chocolate  nutritious,positive,noon,21-30,Holy See,801,0,2003,df,['happiness'],False
+05a2d110ab,bed church morning happy mothers day,positive,morning,46-60,Brunei,437479,5270,83,happiness,['happiness'],True
+5e407e618c,one supposed headache friday thats right,negative,morning,0-20,Democratic Republic of the Congo,89561403,2267050,40,sadness,['sadness'],True
+d2a21b3cb7,many mine included ahem shld known better back then wldnt missed many opportunities haha,negative,night,70-100,Turkey,84339067,770000,110,df,['df'],True
+aa6e04fee2,joined twibe visit scomspinning join  spinner know respect spinners need coffee,positive,noon,60-70,Libya,6871292,1759540,4,happiness,['happiness'],True
+08a860484a,got stung nettles lol  fingers mean come dude apples needed step notch,neutral,noon,21-30,Bangladesh,164689383,130170,1265,sadness,['sadness'],True
+1484dd2416,yum  mothers day lunch food business burnside delicious gorgeous day,positive,morning,46-60,Rwanda,12952218,24670,525,happiness,['happiness'],True
+820ab32b34,get message account suspended far know violated terms contacting twitter now,negative,morning,0-20,Andorra,77265,470,164,sadness,['df'],False
+b8eb46f4c4,ill buy one,neutral,morning,0-20,Cambodia,16718965,176520,95,df,['df'],True
+829e2b094d,pissing letting follow ericka,negative,noon,60-70,CÃ´te d'Ivoire,26378274,318000,83,anger,['anger'],True
+a50c8dc573,feels like hot box matter go still feels like hot box ice cream working n e,negative,morning,46-60,Guinea,13132795,246000,53,sadness,['sadness'],True
+1dc70c74c4,bout  watch movie nd drink wit martin nd leslie,neutral,night,31-45,Cabo Verde,555987,4030,138,df,['happiness'],False
+f30f137d20, sly party enjoying life partying tonightmaybe,positive,morning,0-20,Palau,18094,460,39,happiness,['happiness'],True
+03efda0e7e,im minute want strangle used car salesman presentation related shamwow guy,neutral,morning,46-60,Democratic Republic of the Congo,89561403,2267050,40,anger,['sadness'],False
+e3dc2d8485,_apple miss kid sent msg yt,negative,morning,46-60,Solomon Islands,686884,28000,25,sadness,['sadness'],True
+351e2355f9,grateful daughter happy mothers day okasan thank everything always,positive,noon,60-70,Armenia,2963243,28470,104,happiness,['happiness'],True
+43b42b08ef,make challenge,neutral,morning,46-60,Ukraine,43733762,579320,75,df,['sadness'],False
+7df7221145,thats need thereto represent blackberries,positive,morning,0-20,Democratic Republic of the Congo,89561403,2267050,40,df,['df'],True
+efcca2b409,_m ah knowing microsoft could probby it would want charge way much extra,negative,noon,60-70,Poland,37846611,306000,124,disgust,['disgust'],True
+514b972ba8,_fenton didnt even finish cleaning room cuz went party ahhhh still messy,negative,morning,46-60,Bosnia and Herzegovina,3280819,51000,64,anger,['sadness'],False
+f90eff1570,hahah lucky wait  days poop lol abouts gold coast you if u dnt mind asking,positive,night,31-45,Bolivia,11673021,1083300,11,sadness,['sadness'],True
+07c72f9267,ok th tweet ill use simply say thank you ive met givingcaring people twitter,positive,noon,21-30,Montenegro,628066,13450,47,happiness,['happiness'],True
+03c0f7ab4b,lol met mother,neutral,noon,21-30,Cameroon,26545863,472710,56,df,['happiness'],False
+d86c27f2c4,yeah tragic need haircut,negative,noon,21-30,Libya,6871292,1759540,4,sadness,['sadness'],True
+ad34eca171,shw  took class  minutes ago awsome bad graduate next year,neutral,morning,0-20,Sri Lanka,21413249,62710,341,happiness,['happiness'],True
+edde6bb21e,loving sunshine wish poor richie would feel better,positive,morning,46-60,Belarus,9449323,202910,47,sadness,['sadness'],True
+ee50e9f914,hi selena made team support greece cyprus,positive,night,31-45,Morocco,36910560,446300,83,df,['df'],True
+cb5e709de8,guess what mom adopted kitty today  months name corky,neutral,noon,60-70,Israel,8655535,21640,400,happiness,['happiness'],True
+f2b56c8998,thats awesome man  sent affiliate link lol oh well,positive,night,31-45,Maldives,540544,300,1802,sadness,['happiness'],False
+df1f980d8e,take it mmm definitely,neutral,morning,46-60,Mongolia,3278290,1553560,2,df,['happiness'],False
+3e95b01fc7,looking person different pov never thought id see day arrive,neutral,noon,60-70,Uruguay,3473730,175020,20,df,['df'],True
+47eac3338e,shipping  handleing soooo expensive  entire order ordering yet,negative,morning,0-20,Cambodia,16718965,176520,95,anger,['anger'],True
+9cba8bf464,thanks new followers,positive,night,31-45,Lesotho,2142249,30360,71,happiness,['happiness'],True
+7cf51c500a,awesome take look im home,positive,morning,0-20,Vanuatu,307145,12200,25,happiness,['happiness'],True
+16be528f5c, lala little girl love new songs iãâãâãâ½ve answered u  love freaky twitter guys d,positive,night,31-45,India,1380004385,2973190,464,happiness,['happiness'],True
+c250d1c6c0,went  meet  may b hangin  hittin club bar car holds lol p,neutral,noon,60-70,Togo,8278724,54390,152,happiness,['happiness'],True
+0a269cef6e,today,neutral,night,70-100,Djibouti,988000,23180,43,happiness,['happiness'],True
+72e3305a2f,missing birthday,negative,morning,0-20,Singapore,5850342,700,8358,sadness,['sadness'],True
+5fbaa1c4e9,sadness top horde guild liked disbanded,negative,night,31-45,Kiribati,119449,810,147,sadness,['happiness'],False
+ce4bc59c8b,steve aoki sorry may b nxt time,negative,noon,60-70,Nicaragua,6624554,120340,55,sadness,['sadness'],True
+7f24d1d1ef,two week extension contract  im ready done,neutral,noon,60-70,Iceland,341243,100250,3,anger,['sadness'],False
+c08f716ce5,mymaths timeif cud read mind nerd durin exam,neutral,morning,0-20,Trinidad and Tobago,1399488,5130,273,anger,['anger'],True
+b812c405ed,_ thought next weeki think another week ohmygod please tell another week,neutral,noon,21-30,El Salvador,6486205,20720,313,fear,['fear'],True
+008881f5c5,found earlier today im going uncle,positive,morning,46-60,Mauritania,4649658,1030700,5,happiness,['sadness'],False
+62c9a90f1d,cup tea,neutral,noon,21-30,Bulgaria,6948445,108560,64,happiness,['happiness'],True
+7f5116e5a1, totally worth it great movie cool d glasses miss ya miss miss new york,negative,night,31-45,Jordan,10203134,88780,115,happiness,['happiness'],True
+021f556f61,_agwl talking whom shah rukh khan imposter here lol btw thanx follow,neutral,night,70-100,Kiribati,119449,810,147,happiness,['happiness'],True
+45e1645f36,millenia mom think category,neutral,night,31-45,Barbados,287375,430,668,df,['df'],True
+74dc715845,lol seriously fail sigh,negative,noon,60-70,Uruguay,3473730,175020,20,disgust,['happiness'],False
+97d0fd65e6,four hour baseball game least crew spent much making cubbies look bad,negative,noon,60-70,North Korea,25778816,120410,214,anger,['anger'],True
+b74856cd98,hey sorry headahce,negative,morning,0-20,Ethiopia,114963588,1000000,115,sadness,['sadness'],True
+68fabec1dd,tooo wish could get,neutral,night,70-100,Antigua and Barbuda,97929,440,223,sadness,['sadness'],True
+c3b550b62d,dissapointment hhaha,negative,night,31-45,Sierra Leone,7976983,72180,111,disgust,['disgust'],True
+2e7c0c9e74,mtv going do fmlllll,negative,noon,60-70,El Salvador,6486205,20720,313,anger,['happiness'],False
+19167fd6e7,goodnight loveee attend extra classes school tmrw urgh,positive,noon,60-70,Togo,8278724,54390,152,disgust,['disgust'],True
+6af90a76e4,love much got hiding spot gonna go check datalounge,positive,noon,21-30,Botswana,2351627,566730,4,happiness,['happiness'],True
+af90ad5989,poor get outside sleep garden sun good forget suncream,negative,morning,46-60,New Zealand,4822233,263310,18,anger,['anger'],True
+623c380ff0,_crow morning,neutral,noon,21-30,Libya,6871292,1759540,4,happiness,['happiness'],True
+7812fa18bd,blog updated,neutral,night,70-100,Saint Lucia,183627,610,301,df,['sadness'],False
+76b4b5192f,dreamwidth new journaling site went open beta,neutral,noon,21-30,Palestine State,5101414,6020,847,df,['df'],True
+10795c008a,said vive le difference day ,neutral,morning,46-60,Congo (Congo-Brazzaville),5518087,342000,16,happiness,['happiness'],True
+b03b093758,aw man half term long enough lol,negative,noon,21-30,Gabon,2225734,257670,9,disgust,['sadness'],False
+103c6d1b10,finally deleted number phone contacts heartbreak,negative,morning,0-20,Timor-Leste,1318445,14870,89,sadness,['sadness'],True
+72d01e41f5,home relatives sissy  posted pics cupie cousin audrey ,neutral,night,31-45,Madagascar,27691018,581795,48,df,['df'],True
+dc9166b505,want let know im vfc matter happens yes need hug bad live delaware,negative,morning,46-60,Norway,5421241,365000,15,sadness,['sadness'],True
+842b557aab,one looking and know yet follow anyways good guy,positive,night,31-45,Syria,17500658,183630,95,happiness,['df'],False
+6f88ff3191,meee penguin wallpaper backround phone computer ps ipod touch twitter,neutral,night,70-100,Equatorial Guinea,1402985,28050,50,happiness,['anger'],False
+e536f13163,there need somewhere new,neutral,morning,46-60,Timor-Leste,1318445,14870,89,df,['df'],True
+f564a00b26,right caffeine levels topped up hours revision f time mon jenson,neutral,night,31-45,Burkina Faso,20903273,273600,76,df,['df'],True
+ff1462ff46,mourning venus third round loss,negative,morning,46-60,Vanuatu,307145,12200,25,sadness,['sadness'],True
+f69743df17,sick week still feeling well cant go lenas cookout gunna spend time fam,negative,night,70-100,Ghana,31072940,227540,137,sadness,['sadness'],True
+0757b688fa,phone kayla johnathan cisco woo,neutral,noon,60-70,Tanzania,59734218,885800,67,happiness,['happiness'],True
+2331d16c42,dh finished making giant trio candy bar thank heavens work mates treat tomorrow,positive,noon,60-70,Bangladesh,164689383,130170,1265,happiness,['happiness'],True
+55a394aa00,sting head gear lol,positive,noon,60-70,Holy See,801,0,2003,surprise,['happiness'],False
+53cfb970e6,oh ps since already  probably say happy mothers day mom mothers there,positive,morning,0-20,Democratic Republic of the Congo,89561403,2267050,40,happiness,['happiness'],True
+83bbd4e35e,am still cant sleep,negative,morning,0-20,Saint Vincent and the Grenadines,110940,390,284,sadness,['sadness'],True
+7919f4e984,ahh hate sick watching atonement sleeping,negative,noon,21-30,Luxembourg,625978,2590,242,anger,['sadness'],False
+ab525ccdb8,got new prom dress,neutral,night,31-45,Guatemala,17915568,107160,167,happiness,['happiness'],True
+128c1c3504,wanna longboard raining ughhhhhh,negative,night,31-45,Honduras,9904607,111890,89,disgust,['sadness'],False
+dd49f1179d,im thinking bout life need bed fiance bed first,neutral,noon,21-30,Botswana,2351627,566730,4,sadness,['sadness'],True
+151d27a5ea,first thing get twit on,neutral,morning,0-20,Greece,10423054,128900,81,df,['sadness'],False
+937bd4015b,_pickle lol thank much hope great day,positive,night,31-45,Iraq,40222493,434320,93,happiness,['happiness'],True
+58fdcc0c17,hanging ambyr,neutral,night,70-100,Kiribati,119449,810,147,happiness,['happiness'],True
+5bbef6942a,well tell fashion tips need im woman hehehe,positive,morning,46-60,Nigeria,206139589,910770,226,happiness,['happiness'],True
+7c2fcb712e, lolwhere u headed to,neutral,morning,46-60,Trinidad and Tobago,1399488,5130,273,surprise,['surprise'],True
+aa623c6ae7,spending wonderful mothers day brad mom dad happy mothers day moms,positive,night,31-45,Laos,7275560,230800,32,happiness,['happiness'],True
+7cd45d9ece,morning every giveaway ,neutral,morning,46-60,Hungary,9660351,90530,107,df,['df'],True
+144fe57db1,thats like  rd fb,neutral,morning,46-60,Congo (Congo-Brazzaville),5518087,342000,16,df,['df'],True
+ddf0e52622,yesh lawl,neutral,noon,60-70,Seychelles,98347,460,214,df,['df'],True
+f1441fcdd7,cares hockey,negative,morning,0-20,Kazakhstan,18776707,2699700,7,anger,['anger'],True
+e3c1c6914d,goes bowling anymore friends,neutral,noon,21-30,Libya,6871292,1759540,4,surprise,['sadness'],False
+90c8aa60db,ever told absolutly hate writing emails status pdates fine emails muchfinalityto,negative,night,31-45,Jordan,10203134,88780,115,anger,['anger'],True
+faae6e2fa3,man looking packing books looking past lives feeling kind sentimental,positive,noon,21-30,Lebanon,6825445,10230,667,sadness,['sadness'],True
+946573f031,sun,neutral,morning,0-20,Congo (Congo-Brazzaville),5518087,342000,16,df,['df'],True
+4805c1b793,tonight last night apartment,neutral,night,31-45,Honduras,9904607,111890,89,sadness,['sadness'],True
+163acea217,uff  hard get going today half night  year old son,neutral,morning,0-20,Cambodia,16718965,176520,95,anger,['anger'],True
+807aa145f4,shellotxt message posted hellotxt facebook fan page hellotxt check,neutral,night,31-45,"Eswatini (fmr. ""Swaziland"")",1160164,17200,67,df,['df'],True
+78d8e36c5c,cant believe almost got put down rescue group went got him,positive,night,31-45,Cabo Verde,555987,4030,138,surprise,['surprise'],True
+75b7008aa7,shakalohana week two flat wavez surfin,negative,night,70-100,Monaco,39242,1,26337,sadness,['sadness'],True
+d02d2e4f18,tomorrow last day work sad bye ange,negative,night,31-45,Jordan,10203134,88780,115,sadness,['sadness'],True
+1b964555f4,drop girl got heart sure leave broke bleeding know shell turn back you lo ,neutral,night,70-100,Chile,19116201,743532,26,sadness,['sadness'],True
+c44b286776,_cal work orhehe mind gutter im sittin doin student loan thing,neutral,morning,46-60,Belarus,9449323,202910,47,df,['df'],True
+5ac55658f1,heard moving sydney next year im happy,negative,morning,0-20,Cambodia,16718965,176520,95,sadness,['sadness'],True
+31098bb260,wishes realized wife held onto debit card took long walk get lunch after grrr,negative,morning,0-20,New Zealand,4822233,263310,18,anger,['anger'],True
+804f5f6524,makes sad,negative,night,31-45,Djibouti,988000,23180,43,sadness,['sadness'],True
+8acedd6cab,excited see up logans birthday  weeks sad wont party bc know kids tho,neutral,morning,46-60,Palau,18094,460,39,df,['sadness'],False
+d719d79b34,brownie sundaes five dumpster blood bros itunes palm reader closed fun  anyway,neutral,morning,46-60,Georgia,3989167,69490,57,happiness,['anger'],False
+5b8d6e0051,aww read tweet im sure later either work too feel us,positive,night,31-45,Iraq,40222493,434320,93,sadness,['sadness'],True
+430f181d61,_ri_ja good morning nice see you,positive,morning,0-20,New Zealand,4822233,263310,18,happiness,['happiness'],True
+195c550682,great day massage book appointment today ,positive,morning,46-60,Congo (Congo-Brazzaville),5518087,342000,16,happiness,['happiness'],True
+b718f8e1ec,ugh dont feel like going work today,negative,night,31-45,Peru,32971854,1280000,26,sadness,['sadness'],True
+9c2c176eaf,atl morning back clemson,neutral,noon,60-70,Montenegro,628066,13450,47,df,['happiness'],False
+cce5c4744a,watching body liesgood film,positive,night,70-100,Chile,19116201,743532,26,happiness,['happiness'],True
+0c422d3fe4,a,positive,morning,46-60,Turkmenistan,6031200,469930,13,sadness,['happiness'],False
+74ef7b793d,cleaning packing moving house  going long weekend,negative,night,31-45,Slovenia,2078938,20140,103,anger,['happiness'],False
+910d626cd8,come bell ring want go outside,neutral,noon,60-70,Moldova,4033963,32850,123,anger,['happiness'],False
+000c90da5f,yeahhh lol,neutral,morning,46-60,South Korea,51269185,97230,527,df,['df'],True
+72fd7f148b,recovering bad fall lunch great start weekend,positive,night,70-100,Ecuador,17643054,248360,71,sadness,['sadness'],True
+fdd22c6f2a,morning everyone,neutral,morning,0-20,China,1439323776,9388211,153,happiness,['happiness'],True
+a8b73cf5d5,screw guys prom pictures,negative,noon,60-70,Azerbaijan,10139177,82658,123,anger,['happiness'],False
+08b1144b97, days away evicted,neutral,night,70-100,Uganda,45741007,199810,229,sadness,['sadness'],True
+828b37669c,mean set start using jump in use  sign whatever word want use,neutral,noon,21-30,Moldova,4033963,32850,123,happiness,['happiness'],True
+5ef969f006,wow thats cool bytheway love new tv show,positive,morning,46-60,Ethiopia,114963588,1000000,115,happiness,['happiness'],True
+03b1cac208,wouldnt change fans world tbh dont think anyone would change mcfly world yous amazing x,positive,noon,60-70,Denmark,5792202,42430,137,happiness,['df'],False
+d901264a08,rearry rip youd never guess ate,negative,morning,46-60,Georgia,3989167,69490,57,disgust,['sadness'],False
+d109999477,play wish jordan knight,neutral,morning,0-20,Central African Republic,4829767,622980,8,df,['sadness'],False
+e1dfa4bff0,nothing wrong samantha,positive,noon,21-30,North Korea,25778816,120410,214,disgust,['disgust'],True
+bc4eebb5c5,follow friday follow coz  followers its am,neutral,night,31-45,Jordan,10203134,88780,115,df,['df'],True
+3194919831,english essay on rjwtf done long time ago assigned last thursday,negative,noon,60-70,Grenada,112523,340,331,disgust,['disgust'],True
+0b8cd8a6a8,sitting almost empty dorm waiting jordan come take last things say good bye graduates tomorrow,neutral,noon,60-70,Israel,8655535,21640,400,sadness,['happiness'],False
+85ef35bd34,photo still havnãâãâãâ½t hooked editing comp know guys miss artwork iãâãâãâ½ve decided to ,negative,night,70-100,Monaco,39242,1,26337,df,['df'],True
+5a0e0c34b8,super happy new interest rate whoop whoop,positive,night,31-45,Brazil,212559417,8358140,25,happiness,['happiness'],True
+871697a694,sad gmail chat died cant help,negative,morning,46-60,China,1439323776,9388211,153,sadness,['sadness'],True
+c9cf95f124,o saw fleetwood mac im insanely jealous enough money buy tickets think ill never see them ,negative,night,70-100,Lesotho,2142249,30360,71,sadness,['df'],False
+9292a44999,sweet home picnic blanket though,neutral,noon,21-30,Dominican Republic,10847910,48300,225,happiness,['happiness'],True
+534ffa95e9,hey left  never respond bacc,negative,morning,0-20,Argentina,45195774,2736690,17,sadness,['sadness'],True
+c46ff87273,why hello hows life side screen,neutral,noon,21-30,Estonia,1326535,42390,31,df,['df'],True
+a19f1442bf,thanks guys  followers,positive,morning,0-20,Haiti,11402528,27560,414,happiness,['happiness'],True
+1c21fc2a7c,moment silence budget im bout b spend wayyy much  omg im budget,negative,noon,60-70,Israel,8655535,21640,400,surprise,['surprise'],True
+077a63ee0c,unfollowed  purpose something fishy going tweet deck  let know unfollowed you,negative,morning,46-60,Nigeria,206139589,910770,226,surprise,['sadness'],False
+d8729c1fe3,know whats today no star wars day ,neutral,morning,46-60,Greece,10423054,128900,81,anger,['happiness'],False
+42d8d643bf,doubt tho  twit pic sumthin,neutral,noon,60-70,Luxembourg,625978,2590,242,df,['df'],True
+8e5bc8627a,gets around problem good idea,neutral,morning,0-20,Palau,18094,460,39,df,['df'],True
+e5a26fb323,lol woow okay big deal,neutral,morning,46-60,Kazakhstan,18776707,2699700,7,anger,['anger'],True
+01439339de,smarter classier perfect him and im not,neutral,noon,60-70,Switzerland,8654622,39500,219,sadness,['sadness'],True
+eebc64ac7c,much blog time,neutral,night,70-100,Gambia,2416668,10120,239,sadness,['sadness'],True
+4fb0995de8,hows possible rain forecast pinkpop ticket,neutral,night,70-100,Marshall Islands,59190,180,329,surprise,['surprise'],True
+d1101dce96,last day volleyball miss everyone already oh well banquet th hopefully everyones gonna,neutral,morning,0-20,Saint Vincent and the Grenadines,110940,390,284,sadness,['happiness'],False
+14fe4b8490,feel like dyeing right now,negative,noon,21-30,Somalia,15893222,627340,25,sadness,['sadness'],True
+22c7c7dea6,still pic sad,negative,morning,0-20,Greece,10423054,128900,81,sadness,['sadness'],True
+5d85d05584,think friends like anymore via zenjar ,negative,night,70-100,Zimbabwe,14862924,386850,38,sadness,['sadness'],True
+9649f936cc,perhaps answers questions lie deep waves ocean beach trip anyone,neutral,noon,21-30,Grenada,112523,340,331,happiness,['happiness'],True
+f5d1b07ac1,wanna talk mitchel mussoooooo,neutral,night,70-100,Croatia,4105267,55960,73,df,['df'],True
+7aa9e70c18,brother planning moving vietnam staying forever,neutral,noon,21-30,Luxembourg,625978,2590,242,sadness,['sadness'],True
+fdfd544d8d,lets see hate groupies  near stalkers love send gifts,neutral,night,70-100,Spain,46754778,498800,94,df,['df'],True
+2dc2b2ecaf,love  host lmao,positive,morning,46-60,Timor-Leste,1318445,14870,89,happiness,['happiness'],True
+9d190cc1cc,blast sale today one pair cords mis sized tho still worth it might come back tomorrow thankssss,positive,morning,0-20,Sao Tome and Principe,219159,960,228,happiness,['happiness'],True
+e79f3b3eee,workmen extending r block cant start early surely am already theyre making racket woken up,neutral,noon,60-70,Angola,32866272,1246700,26,anger,['anger'],True
+27eed86c41,hi im ok still feeling great,negative,night,70-100,Italy,60461826,294140,206,sadness,['sadness'],True
+e2946e2769,phone  tyson,neutral,noon,21-30,Cyprus,1207359,9240,131,anger,['sadness'],False
+3c9397acdd,facebook load me  it im bored,negative,morning,0-20,Liberia,5057681,96320,53,anger,['anger'],True
+1281b062a4,safe ride coast going  even though can windy smile cuz u know u better,positive,noon,60-70,Kenya,53771296,569140,94,df,['df'],True
+eccfe62ff1,hi beautiful hows going,positive,noon,21-30,Armenia,2963243,28470,104,happiness,['happiness'],True
+9843ecd416,aw going toronto anymore,negative,morning,0-20,Sao Tome and Principe,219159,960,228,sadness,['sadness'],True
+0417a347f4,children promised birthday brekkie bed theres problem theres bugger food house,negative,morning,0-20,Liberia,5057681,96320,53,sadness,['happiness'],False
+a181f03a20,says got  cards today eva n clara thanks guys ,positive,noon,21-30,North Korea,25778816,120410,214,happiness,['happiness'],True
+624763df58, used nkotb sleeping bag too know,neutral,noon,60-70,Malta,441543,320,1380,surprise,['sadness'],False
+818996ad8d,life come nothing making choices ill regret later,negative,morning,46-60,United States of America,331002651,9147420,36,sadness,['sadness'],True
+7b08c6091a,_stiller sure do  boot,neutral,morning,0-20,Ukraine,43733762,579320,75,df,['df'],True
+c016333e85,oh tweetdeck malfunctioning o il web fixd,negative,noon,21-30,Samoa,198414,2830,70,sadness,['happiness'],False
+de3833a81d,today lame orlando soooo looking forward next friday,negative,night,31-45,Morocco,36910560,446300,83,disgust,['disgust'],True
+2575ae28e3,omg julys last day,neutral,noon,60-70,Luxembourg,625978,2590,242,happiness,['happiness'],True
+9bf2e0669e,_fisher hey udid u got reply,neutral,night,31-45,Canada,37742154,9093510,4,happiness,['happiness'],True
+e1f58e1e59,thinks malibu drink lets hit bottle woop woop ,positive,noon,60-70,Togo,8278724,54390,152,happiness,['df'],False
+6e0b3d6b0d,knocked sooo godamn funny never gets old youre tupac biggie lol,positive,noon,21-30,Saint Kitts and Nevis,53199,260,205,happiness,['happiness'],True
+cbbe4f2dd4,_libertine um glad enjoyed it,positive,noon,60-70,Nicaragua,6624554,120340,55,disgust,['happiness'],False
+6c424ebd7e,back home palmdale bed mommy,neutral,night,31-45,Iraq,40222493,434320,93,happiness,['happiness'],True
+1f2f27c5cd,hell raining hate rain,negative,noon,21-30,Kenya,53771296,569140,94,anger,['anger'],True
+cbfe82ef26,feels really sick,negative,night,70-100,Laos,7275560,230800,32,sadness,['sadness'],True
+458f7b2493,finally feel back swing things work getting married last week sigh relief wedding planning,positive,noon,21-30,Togo,8278724,54390,152,happiness,['happiness'],True
+9c61ce1836,laptop spasy phone cat music mother making breakfast lovage that,neutral,morning,0-20,Latvia,1886198,62200,30,happiness,['happiness'],True
+01b2476dd7,going bed late headache,negative,noon,21-30,Azerbaijan,10139177,82658,123,sadness,['sadness'],True
+a38d4da0df,feel pain man people say really good money waste ps,neutral,noon,60-70,Azerbaijan,10139177,82658,123,sadness,['sadness'],True
+d302cf5d8f,trent reznor  liddle beotch doesnt get way could title,neutral,morning,0-20,Democratic Republic of the Congo,89561403,2267050,40,anger,['anger'],True
+7eebee2219,stuck office red hot,negative,noon,60-70,Azerbaijan,10139177,82658,123,disgust,['disgust'],True
+954ab76021,feeling loved mom got nikon cool pix birthday,positive,morning,0-20,Sweden,10099265,410340,25,happiness,['happiness'],True
+5b7d384722,finally got graduation gear today im excited believe it  days left aaah sweater cozy,positive,morning,0-20,Cuba,11326616,106440,106,happiness,['happiness'],True
+cff315b757,wants wish moms happy mothers day hope treated like queens,positive,night,70-100,Ecuador,17643054,248360,71,happiness,['happiness'],True
+3d6736b952,yeah think weve earned it,neutral,noon,21-30,North Korea,25778816,120410,214,df,['df'],True
+009a952227,jetway feels like seventh layer hell oh way many babies flight forgot bose,negative,night,31-45,Antigua and Barbuda,97929,440,223,anger,['sadness'],False
+d715925ecd,would panic little maybe read orbitron gym like dowhen else fails,negative,night,70-100,Bahamas,393244,10010,39,fear,['sadness'],False
+2e277c6d53,love cant swing  would likely evening tweetup future,positive,noon,21-30,Samoa,198414,2830,70,df,['happiness'],False
+f7d4269198,ok tweeps sorry many twitpic ill delete pics soon em copied,negative,noon,21-30,Fiji,896445,18270,49,disgust,['disgust'],True
+212ca1a172,loved it guys amazing,positive,night,31-45,Cabo Verde,555987,4030,138,happiness,['happiness'],True
+c0b19d85bd,_a_hart ah birmingham remember wrox days,neutral,morning,0-20,Sao Tome and Principe,219159,960,228,happiness,['happiness'],True
+f2c87a8129,cool look forward frequent tweets,positive,night,70-100,Antigua and Barbuda,97929,440,223,happiness,['happiness'],True
+2486f3c1a1,_dubai enjoy sounds idyllic geordiebird lost bikiniperfect holiday,positive,noon,60-70,Bhutan,771608,38100,20,happiness,['happiness'],True
+a4ca62632d,awesome night ahead bad v rat city favorite skaters one track fb,positive,morning,46-60,Mali,20250833,1220190,17,happiness,['happiness'],True
+32c96c1090,enjoying new car,positive,night,70-100,Algeria,43851044,2381740,18,happiness,['happiness'],True
+539d37b36b,did,neutral,night,70-100,Italy,60461826,294140,206,df,['df'],True
+dd05c1c3d8,need buy bluetooth device machine,neutral,morning,46-60,China,1439323776,9388211,153,df,['df'],True
+b0ec446090,fine still playing infamous sorry hear things ended,neutral,night,70-100,Barbados,287375,430,668,sadness,['sadness'],True
+e8fe5c5dc7,hilarious acts up say  little wordgummed up grosses out hub says  torment,positive,noon,60-70,Samoa,198414,2830,70,disgust,['sadness'],False
+83c92f835b,still freakin missing game jonasnewsongs,negative,night,70-100,San Marino,33931,60,566,sadness,['sadness'],True
+0c2fdfc4bd,fuzzball fun mothers day ,positive,morning,0-20,Greece,10423054,128900,81,df,['happiness'],False
+bf9927af4c,actually woke up going attempt see  natalyy,neutral,morning,46-60,Greece,10423054,128900,81,happiness,['happiness'],True
+5d847ecde0,hd full again ,neutral,night,31-45,South Africa,59308690,1213090,49,df,['df'],True
+c086d6e230,watchin how lose man  days wiv mum lol,neutral,noon,60-70,Switzerland,8654622,39500,219,happiness,['happiness'],True
+853ebd7b47,raid leader made us run drills practice switching,neutral,noon,21-30,Chad,16425864,1259200,13,disgust,['anger'],False
+d28a8ca680,thx  sharing,positive,night,31-45,Gambia,2416668,10120,239,happiness,['happiness'],True
+282e1a63e8,another purse need see photos,neutral,noon,21-30,Paraguay,7132538,397300,18,df,['happiness'],False
+c9ed0d71db,today  days leakycon  awesome number wish far away,positive,morning,46-60,Egypt,102334404,995450,103,sadness,['sadness'],True
+af2e79600d,talkin sum special,positive,noon,21-30,Israel,8655535,21640,400,happiness,['df'],False
+698a91c45d,thanks yes lot,positive,night,70-100,Marshall Islands,59190,180,329,happiness,['happiness'],True
+5c2edde096,i need huge favor love anticipate texts,positive,morning,46-60,Hungary,9660351,90530,107,sadness,['sadness'],True
+db1be9d601,going forgo pub night wife tonight tough week us neither really it plus neighbor died,negative,morning,46-60,Georgia,3989167,69490,57,sadness,['sadness'],True
+5237f98883,happy mothers day mom love you,positive,morning,0-20,Timor-Leste,1318445,14870,89,happiness,['happiness'],True
+9ed0319118,seen wolverine might want change pic theres new sheriff town,neutral,noon,21-30,Bulgaria,6948445,108560,64,df,['happiness'],False
+533b05f261,know theyre  trying sort portfolio know put it,negative,night,70-100,Italy,60461826,294140,206,anger,['anger'],True
+a429255434,gday thanx following,positive,noon,60-70,Myanmar (formerly Burma),54409800,653290,83,happiness,['happiness'],True
+ad21249e85,hehehe hello you good see twitter,positive,morning,0-20,Jamaica,2961167,10830,273,happiness,['happiness'],True
+23013f9a40,greg back top  love nascar,positive,noon,21-30,Seychelles,98347,460,214,happiness,['happiness'],True
+1dc37b5047,star trek grtsat bggeting drunk,positive,morning,0-20,Argentina,45195774,2736690,17,happiness,['happiness'],True
+851583e0de,s kinda long oops,neutral,noon,60-70,Samoa,198414,2830,70,df,['df'],True
+2a83e56667,_ really son  screw him ill talk msn later k xox,negative,night,70-100,Niger,24206644,1266700,19,anger,['anger'],True
+4a002e7c6b,maybe jd help know though ask,neutral,noon,21-30,South Sudan,11193725,610952,18,sadness,['sadness'],True
+18eba56565,nobobys behind think lead  far,positive,noon,21-30,Saudi Arabia,34813871,2149690,16,df,['df'],True
+0b5b3361e2,world im chillin bout go get money economy money easy money anymore,neutral,noon,60-70,Kenya,53771296,569140,94,df,['df'],True
+fe25c5bffb,look im following you,neutral,morning,0-20,Eritrea,3546421,101000,35,surprise,['happiness'],False
+f306ec47db,sizzling outside work inside  double,neutral,morning,0-20,Ethiopia,114963588,1000000,115,disgust,['disgust'],True
+dedc4e6686,arghhhmy korean dvd cant seei need laugh,neutral,night,31-45,Marshall Islands,59190,180,329,sadness,['sadness'],True
+d461b50edb,really bored today ate bowl ful rasberries grapes im waiting dinner,negative,morning,46-60,France,65273511,547557,119,sadness,['sadness'],True
+9fcaa348c0,reception eating nasty  pasta woot beautiful,neutral,noon,21-30,Angola,32866272,1246700,26,df,['df'],True
+a454494a8a,ouch back man im sick,negative,morning,0-20,United States of America,331002651,9147420,36,sadness,['sadness'],True
+90fea7e19b,following people around though many webdesign twitters,neutral,noon,21-30,Venezuela,28435940,882050,32,df,['df'],True
+26ac912cc5,csi ny comes back aus  lies silicone se evryone east coast tune tonight pleaseee,neutral,night,70-100,Sierra Leone,7976983,72180,111,df,['df'],True
+eefb86c722,watching krystle vs alexis catfights youtube miss dynasty,negative,night,70-100,Netherlands,17134872,33720,508,sadness,['sadness'],True
+18388b8a88,im sad work today cant win tickets,negative,morning,46-60,Sri Lanka,21413249,62710,341,sadness,['sadness'],True
+15ec12dff3,great time talkin mike tonight three hrs,positive,night,70-100,Niger,24206644,1266700,19,happiness,['happiness'],True
+caf284161d,star trek good times,positive,morning,0-20,Nigeria,206139589,910770,226,happiness,['happiness'],True
+deddbb63c8,_fred really cool no im pc now mac well ooooooooold iphone tho,positive,noon,21-30,Colombia,50882891,1109500,46,happiness,['happiness'],True
+bfb91b9e2b,sam may ask odd question might fave animal be,neutral,noon,60-70,North Korea,25778816,120410,214,df,['df'],True
+c928ea3a7a,wishing mothers happy mothers day,positive,night,70-100,North Macedonia,2083374,25220,83,happiness,['happiness'],True
+2247d7ed5c,rat run steve irwin way avoid long delays bruce highway,negative,noon,21-30,Nicaragua,6624554,120340,55,anger,['anger'],True
+1bba528c01,thanks sympathy bad hour ago started thinking appointment tomorrow,positive,noon,21-30,Botswana,2351627,566730,4,sadness,['sadness'],True
+0aaab17148,k  slices left,neutral,morning,0-20,Dominica,71986,750,96,df,['df'],True
+f57f6c3092,wolverine much fun gambit bit disappointing neither smooth cajun enough taste pretty though,neutral,morning,0-20,United States of America,331002651,9147420,36,df,['df'],True
+1dac505c43,im going town two dinner rolls dark chocolate yummmm,positive,night,70-100,Suriname,586632,156000,4,happiness,['happiness'],True
+12e0187cb9,found theres sushi fake crab meat good,negative,morning,46-60,China,1439323776,9388211,153,surprise,['surprise'],True
+89dafd0c47,sforlifeorg  pets get cancer too,neutral,night,70-100,Australia,25499884,7682300,3,sadness,['sadness'],True
+62ac88ef56,math left day dmv,neutral,morning,46-60,Haiti,11402528,27560,414,sadness,['sadness'],True
+1eabe43846,kuala lumpur know vanished haha broke last boyfriend thats im back,negative,noon,60-70,Dominican Republic,10847910,48300,225,sadness,['sadness'],True
+f9182af73a,nd breakfast  want food  lol tweet breakfast loooooolding,positive,night,31-45,Belize,397628,22810,17,happiness,['happiness'],True
+fb872556ee,added collection much punk  ask back,negative,noon,21-30,Paraguay,7132538,397300,18,anger,['df'],False
+0a80fcf9c5,mind abuzz re advertising industry  standards  hate like maths ok,neutral,noon,60-70,Denmark,5792202,42430,137,anger,['anger'],True
+2d41f45aca,got xbox back  really sore knee cant walk,negative,night,70-100,North Macedonia,2083374,25220,83,sadness,['sadness'],True
+8c20777a68,work back babys house,neutral,morning,46-60,Central African Republic,4829767,622980,8,happiness,['happiness'],True
+60fc6a5a7d,best vanilla memory sharffenberger factory gift shop sure get now,positive,night,31-45,Marshall Islands,59190,180,329,sadness,['sadness'],True
+7a30455f8b,tea pitcher things hard find seen here ive found ,negative,night,31-45,Sierra Leone,7976983,72180,111,disgust,['disgust'],True
+ce4954f532,bigi  tokyo fashion spree tmr check sih web ____,neutral,morning,0-20,France,65273511,547557,119,happiness,['surprise'],False
+bab27bd635,hey twit watched poor holly britains got talent poor thing people mean   year old little girl,negative,morning,46-60,Austria,9006398,82400,109,sadness,['sadness'],True
+d4a56201be, days summer holiday left going way slow school get here,negative,morning,46-60,Ireland,4937786,68890,72,disgust,['happiness'],False
+71c6b00c21,ayy fml nothing perfect,negative,noon,21-30,Armenia,2963243,28470,104,sadness,['sadness'],True
+f2810a559c,decided best stay tonight lady shall pittsburgh soon farewell,positive,morning,46-60,Qatar,2881053,11610,248,happiness,['happiness'],True
+d1947e8c88,rr fashion show kacie,neutral,night,31-45,Chile,19116201,743532,26,happiness,['happiness'],True
+e5deb9be38,social fun swam water boxers,positive,night,31-45,Croatia,4105267,55960,73,happiness,['happiness'],True
+77bcc4857c,yeah sure,neutral,noon,21-30,El Salvador,6486205,20720,313,df,['df'],True
+2dbb28cc29,_xo dang it certain    okay,neutral,noon,21-30,Gabon,2225734,257670,9,surprise,['surprise'],True
+a1c5be2cbb,oooo look got pic much swimming today,neutral,noon,21-30,Estonia,1326535,42390,31,sadness,['sadness'],True
+dbb8b556b5,happy  even makes laundry wonderful,positive,morning,0-20,Central African Republic,4829767,622980,8,happiness,['happiness'],True
+d65ce39851,god bless u hope rest weekend joyfull,positive,night,70-100,Peru,32971854,1280000,26,happiness,['happiness'],True
+05bc7a77ef,love ipod shuffles good songs together,positive,night,70-100,United Kingdom,67886011,241930,281,happiness,['happiness'],True
+f5d5719228,i,neutral,night,70-100,Pakistan,220892340,770880,287,df,['happiness'],False
+126b1e6a22,of kinda turns all buy dig deeper hole etc ,negative,noon,60-70,Denmark,5792202,42430,137,df,['df'],True
+bcca61e577,blue martini me,neutral,noon,60-70,CÃ´te d'Ivoire,26378274,318000,83,surprise,['df'],False
+2a9009ce2f,_surprises unfortunately yes,negative,night,70-100,Chile,19116201,743532,26,surprise,['df'],False
+baaa649aaa,impressed,positive,night,70-100,Canada,37742154,9093510,4,surprise,['happiness'],False
+f5d47f04f5,much no unless one pillows ends suffocating one sleeping next you,negative,morning,46-60,Vanuatu,307145,12200,25,anger,['sadness'],False
+f2b2f8d3a5,live live  dj jayem bb esr click  sisdnbcomlistenasx,neutral,morning,46-60,Latvia,1886198,62200,30,df,['anger'],False
+4145184473,thanks twitpic sure made laugh,positive,night,31-45,Czechia (Czech Republic),10708981,77240,139,happiness,['df'],False
+f68fbbc1db, say,negative,night,70-100,Lesotho,2142249,30360,71,anger,['happiness'],False
+f673020218,lol kk ive sent u friend request,neutral,noon,60-70,Lebanon,6825445,10230,667,happiness,['happiness'],True
+b3b338bcd0,followfriday _ cuz ive never added anyones followfriday either  cuz hes got cool picture,positive,night,70-100,Senegal,16743927,192530,87,df,['df'],True
+b8eea546b8,oh im obviously back stupid sleep schedule luckily church  tomorrow,neutral,noon,60-70,North Korea,25778816,120410,214,anger,['anger'],True
+f15c77bd2d,great song ,positive,noon,60-70,Malta,441543,320,1380,happiness,['happiness'],True
+20d7cb2f69,managed breathe since getting news,negative,night,31-45,Burkina Faso,20903273,273600,76,sadness,['sadness'],True
+92a1d4137f,beach ashley,neutral,morning,0-20,South Korea,51269185,97230,527,happiness,['happiness'],True
+01f75f3eac,watching hostage also got idea animation im making hope ready post link fifth june,positive,night,31-45,Kiribati,119449,810,147,df,['happiness'],False
+bc9ebe0002,hate life,negative,night,70-100,Australia,25499884,7682300,3,sadness,['sadness'],True
+ecd73c6d97,man behind awesome macarena vid great work love it,positive,night,70-100,Laos,7275560,230800,32,happiness,['happiness'],True
+cf44fa82c2, people  yrs dk facebook profiles citizens range dk why,neutral,morning,0-20,Greece,10423054,128900,81,df,['df'],True
+dbdb957eea,okay gots go first time since started miss block party,neutral,night,31-45,Zimbabwe,14862924,386850,38,sadness,['sadness'],True
+443ddbe686,lol target employee forbid place usually go buy like everything along commenting,neutral,morning,0-20,Latvia,1886198,62200,30,df,['df'],True
+18195deb58,may be still like hearing name much blackhawks canucks,negative,morning,46-60,Tajikistan,9537645,139960,68,anger,['sadness'],False
+5bac5df5db,cannot sleep im super duper duper excited pour la paris love city,positive,night,70-100,San Marino,33931,60,566,happiness,['happiness'],True
+a1898e44e9,predicted feel lyk  gahh hate bein ill wrk tweet lata ,negative,noon,60-70,Chad,16425864,1259200,13,anger,['anger'],True
+7e820f005a,thanks warm welcome make plans arrival time air,positive,noon,60-70,Zambia,18383955,743390,25,happiness,['happiness'],True
+f9b667e1ed,_tech woke little ago sleep couple hours lol im wide awake,neutral,morning,46-60,Georgia,3989167,69490,57,df,['df'],True
+724eb69f24,ive laundry last two days,neutral,morning,0-20,Indonesia,273523615,1811570,151,anger,['sadness'],False
+570b9c0856,lol saw going thatboth last names common nothing special,neutral,night,31-45,Thailand,69799978,510890,137,disgust,['disgust'],True
+e75c46aa82,instead telling god big problems are like telling problems big god is ,neutral,morning,0-20,Trinidad and Tobago,1399488,5130,273,happiness,['happiness'],True
+f95cd61c48,bed one day left school get go holidays yay finally getting sick school lol,neutral,morning,0-20,Micronesia,115023,700,164,happiness,['happiness'],True
+ca0a253612,really good distraction now ill check right now,positive,morning,0-20,Singapore,5850342,700,8358,surprise,['happiness'],False
+1fce3e2d7b,bueno hollykins needs feel better asap ps miss you done uni soon you soproudofyou,neutral,night,70-100,Vietnam,97338579,310070,314,sadness,['happiness'],False
+3e92853efb,cant join game private beta,neutral,night,31-45,Pakistan,220892340,770880,287,sadness,['sadness'],True
+1834ef3d8b,o goodness havnt heard it lovelovelove old stuff though overture underscore best album think,positive,noon,21-30,Albania,2877797,27400,105,surprise,['happiness'],False
+20bf40e9ad,st lbs going right direction,positive,night,31-45,Russia,145934462,16376870,9,happiness,['happiness'],True
+3adfb85ae8,ah lovely day bike ride cake making is rooting  revising best x,positive,morning,0-20,Tajikistan,9537645,139960,68,happiness,['happiness'],True
+b89af87662,store airport close well get wdw trip,neutral,morning,46-60,France,65273511,547557,119,anger,['anger'],True
+d0bf2cb10f,aww lovely pic,positive,morning,46-60,Qatar,2881053,11610,248,happiness,['happiness'],True
+06b8d9e26c,welcome,positive,morning,46-60,Austria,9006398,82400,109,df,['df'],True
+0b9b43d4a6,like new terminator movie man,negative,night,31-45,"Eswatini (fmr. ""Swaziland"")",1160164,17200,67,sadness,['happiness'],False
+69e63a9862,wanna go shopping get paid till next week,neutral,night,70-100,Australia,25499884,7682300,3,anger,['sadness'],False
+47ec7c77de,lost first field notes notebook  pages filling up rip fieldnotes,negative,morning,46-60,Ethiopia,114963588,1000000,115,sadness,['sadness'],True
+72a849e0cf,tierdi want talk,negative,night,31-45,Bolivia,11673021,1083300,11,sadness,['df'],False
+620b802c17,go buy mother mothers day gift,neutral,morning,0-20,Cambodia,16718965,176520,95,df,['happiness'],False
+a348aea018,napppinggg work   ,neutral,morning,46-60,Micronesia,115023,700,164,sadness,['sadness'],True
+082abf7f5a,aw  grillz background look like plaque ,neutral,morning,0-20,Argentina,45195774,2736690,17,happiness,['happiness'],True
+aca9ad929e,_nyc hey sweetie cnt go fri thnks much,positive,night,70-100,Chile,19116201,743532,26,sadness,['sadness'],True
+c762607c42,watch arsenal v chelsea today,neutral,morning,46-60,Cuba,11326616,106440,106,df,['happiness'],False
+2524332d66,im concerned family,positive,noon,60-70,Mauritius,1271768,2030,626,fear,['happiness'],False
+a8734230b6,ew traffic,negative,night,31-45,Brazil,212559417,8358140,25,disgust,['disgust'],True
+89b51cf174,sure love sushi tweeted many pictures it,positive,night,70-100,Panama,4314767,74340,58,disgust,['disgust'],True
+0dffcf014e,thank too hope turns top week you,positive,night,31-45,Italy,60461826,294140,206,happiness,['happiness'],True
+ffaccf8278,so pointed able involved convo lack iphone,neutral,night,70-100,Turkey,84339067,770000,110,sadness,['sadness'],True
+79bd7de23f,lol glad like it,positive,morning,46-60,Dominica,71986,750,96,happiness,['happiness'],True
+16ee71e6df,sadly think know exactly put itin expired drawer things life span less two years,negative,night,31-45,Uzbekistan,33469203,425400,79,sadness,['sadness'],True
+72c09ef13a,raining gng rain dance,neutral,morning,0-20,Afghanistan,38928346,652860,60,happiness,['anger'],False
+a914a3c939,o happy mothers day,positive,night,31-45,Antigua and Barbuda,97929,440,223,happiness,['happiness'],True
+1d779830cc,luv someone fear them wish someone exsplain ,neutral,noon,60-70,Zambia,18383955,743390,25,fear,['fear'],True
+c0854bf08a,wish knew trying figure something,positive,night,70-100,United Kingdom,67886011,241930,281,sadness,['sadness'],True
+e7de0750f9,oops ignore last post meant direct message,negative,morning,0-20,Philippines,109581078,298170,368,surprise,['surprise'],True
+7ec0f71db5,yay joss coming saturday,positive,noon,60-70,Tunisia,11818619,155360,76,happiness,['happiness'],True
+27af3032f1,yes do im still almost gmail storage ceiling argh forced delete stuff buy space,negative,noon,60-70,Grenada,112523,340,331,anger,['df'],False
+247e9c28a5,haha happy star wars day may th you  clever,positive,noon,60-70,Albania,2877797,27400,105,happiness,['happiness'],True
+9b600d4212,great mood todayyyyyyyyy super excited game tonight excited one year older tomorrow,positive,noon,21-30,Dominican Republic,10847910,48300,225,happiness,['happiness'],True
+cdbe4df131,omg exctied,positive,noon,21-30,Armenia,2963243,28470,104,happiness,['happiness'],True
+3121e64ff3,lol well im qlad u enjoyed yur ramen noodles fried chicken im tired,neutral,morning,0-20,Guinea,13132795,246000,53,happiness,['happiness'],True
+12fdd2d959,omg right hear us blocked annoying wake deaf,negative,morning,46-60,Indonesia,273523615,1811570,151,anger,['sadness'],False
+9624b0b500,layin bed awake txtin girl vegas wishin work w,negative,night,31-45,South Africa,59308690,1213090,49,sadness,['sadness'],True
+e3731b6ce8,whats goin hun im worried,negative,night,31-45,Madagascar,27691018,581795,48,sadness,['sadness'],True
+20951ebfde,im stuck inside elk grove village working day someone enjoy it,neutral,night,70-100,Liechtenstein,38128,160,238,sadness,['happiness'],False
+aebcb91e4a,pm tonight international space station head texas least,neutral,noon,60-70,Holy See,801,0,2003,df,['df'],True
+93516d3ceb,hope isnt hot summer thenhows little one todaybeing good hopelol,positive,noon,21-30,North Korea,25778816,120410,214,df,['df'],True
+7a36fca205,awesome book cant wait film  enjoy scared x,positive,noon,60-70,Somalia,15893222,627340,25,happiness,['happiness'],True
+ca66c3653e,bout  miss mah lakers play day orange box  rotation mah real la fam keep posted love haters ,neutral,morning,46-60,Burundi,11890784,25680,463,anger,['happiness'],False
+719f6bacc1,mm cold shadow anyway ooh monday,neutral,night,70-100,United Kingdom,67886011,241930,281,anger,['anger'],True
+6a9023f1af,ass you,negative,noon,21-30,Poland,37846611,306000,124,sadness,['happiness'],False
+47671f2b86,gonna go make memes mothers day card go hop shower hop sleep,neutral,night,31-45,Slovenia,2078938,20140,103,happiness,['happiness'],True
+b81798ce06,happened,neutral,night,70-100,San Marino,33931,60,566,surprise,['happiness'],False
+421944b580,mom wearing shrug bought morrowi cant wait  c n itcute,positive,morning,46-60,Benin,12123200,112760,108,happiness,['happiness'],True
+b783916431,huh another scarepoint coding sunday,neutral,morning,46-60,Burundi,11890784,25680,463,surprise,['surprise'],True
+f946da7a04,_thomas drinking game tonighti work till  tomorrow,neutral,night,70-100,Cabo Verde,555987,4030,138,sadness,['sadness'],True
+a63638f545,bgt amazing tonight threee amazing acts got sent home,positive,night,31-45,Cabo Verde,555987,4030,138,happiness,['happiness'],True
+e319638aae,_gaba evrytime listen name tat plce reminded mojojojo dexters lab,neutral,morning,0-20,Haiti,11402528,27560,414,df,['df'],True
+2d9c34b943,funny profiled  like wtf im still kinda heated ugh,negative,night,70-100,Maldives,540544,300,1802,anger,['sadness'],False
+68a2d75b38,whaatttaatttt good cook really creative silly sierra,positive,night,70-100,Canada,37742154,9093510,4,surprise,['happiness'],False
+3cb7fed999,hi kendra whats up follow,neutral,night,70-100,Croatia,4105267,55960,73,df,['df'],True
+2ff5a1078b,licking chocolate crumbs twirl wrapper like zammo smack,neutral,night,70-100,Slovenia,2078938,20140,103,happiness,['happiness'],True
+ca4b7d62c0,anytime literally hahaha,neutral,night,31-45,Czechia (Czech Republic),10708981,77240,139,happiness,['happiness'],True
+68a429f6af,here wanted keep going end ever ,neutral,morning,0-20,Benin,12123200,112760,108,happiness,['happiness'],True
+e18a2f80b1,sad news week hospital uncle past away today rip uncle tony,negative,noon,21-30,South Sudan,11193725,610952,18,sadness,['sadness'],True
+7115b4a4b1, wee girl started crying mum came on shame,negative,morning,0-20,Micronesia,115023,700,164,sadness,['sadness'],True
+780c673bca,going good ol soak tonight mothers day feed love ever,positive,morning,0-20,Ethiopia,114963588,1000000,115,happiness,['happiness'],True
+1d854b9456,aww holly steel  dont cry,negative,night,70-100,Syria,17500658,183630,95,sadness,['sadness'],True
+650c4b89cc,wish could would cost much call way uk,negative,noon,60-70,Malta,441543,320,1380,sadness,['sadness'],True
+6e7e59bcd9,drinkin chai tea sleeping checkin cool peeps,neutral,night,31-45,Peru,32971854,1280000,26,happiness,['happiness'],True
+f9f82c5f99,bored headache,negative,noon,21-30,Montenegro,628066,13450,47,sadness,['sadness'],True
+9a58257276,_war_mt im longer blue,neutral,morning,46-60,Trinidad and Tobago,1399488,5130,273,df,['df'],True
+f0e3079931,_babe woo im getting mine mondaycant wait x,positive,morning,0-20,South Korea,51269185,97230,527,happiness,['happiness'],True
+10f2498c35,want crimson gem saga go play rf guerilla demo repeatedly mission failed  died many times dicking around,neutral,morning,0-20,Kazakhstan,18776707,2699700,7,sadness,['sadness'],True
+02bf960d09,ohh confusedp seen it favourite,neutral,night,31-45,Equatorial Guinea,1402985,28050,50,surprise,['happiness'],False
+4d97f4be67,rain please come,neutral,night,31-45,Ghana,31072940,227540,137,sadness,['sadness'],True
+a7a4f1809e,car shopping kacy yay,positive,noon,21-30,Angola,32866272,1246700,26,happiness,['happiness'],True
+f4c7c4cfc1,_ holy  need see that bad gotta wait tomorrow,neutral,morning,46-60,Cuba,11326616,106440,106,sadness,['sadness'],True
+ffbae98f62,stomach bleh,negative,morning,0-20,Qatar,2881053,11610,248,sadness,['happiness'],False
+f5dd26cb38,omfg downing tasty ate almost lo,positive,noon,21-30,South Sudan,11193725,610952,18,happiness,['happiness'],True
+ba93b83d6d,see approaching nice round  number expect crashed time come back tonight,positive,noon,60-70,Botswana,2351627,566730,4,surprise,['sadness'],False
+649e31adcc,starbucks im lovin,positive,night,31-45,Pakistan,220892340,770880,287,happiness,['happiness'],True
+cec3d89140,driving fast much fun went   hahaha goodnight,positive,noon,60-70,Angola,32866272,1246700,26,happiness,['happiness'],True
+98210647c3,pretty least think need catch sleep soon though,positive,noon,21-30,Chad,16425864,1259200,13,df,['df'],True
+9aaac25638,hate ms makes feel cant control legs nite  much pain  driving crazy anyone else get moments,negative,noon,21-30,Saudi Arabia,34813871,2149690,16,sadness,['sadness'],True
+a6b98b0931,hope ur havin nice friday feeling past week since dogs passing,neutral,noon,60-70,Guinea-Bissau,1968001,28120,70,sadness,['sadness'],True
+94685b4441,_cullen yes yes is,neutral,night,31-45,Kiribati,119449,810,147,df,['df'],True
+b5c4912b8b,greenville drive games without baseball guy clown,negative,night,70-100,Sierra Leone,7976983,72180,111,sadness,['sadness'],True
+1be36af355,back vet good,negative,noon,21-30,South Sudan,11193725,610952,18,sadness,['happiness'],False
+0c8aeeaf08,twitterberry wont work friends,neutral,night,31-45,Comoros,869601,1861,467,sadness,['sadness'],True
+951a802069,hospital uncle surgury heart attack,negative,morning,0-20,Benin,12123200,112760,108,fear,['sadness'],False
+ee66a9e45f,got  followers now,neutral,night,70-100,Djibouti,988000,23180,43,happiness,['happiness'],True
+1706a0ea08,yeah im kinda glad stay home,positive,night,31-45,Liechtenstein,38128,160,238,happiness,['happiness'],True
+dcac89aab6,_recordings alas  occuring office central london,neutral,noon,60-70,Malta,441543,320,1380,df,['df'],True
+769c8775bf,technicallyi havent really gotten bed think right im gonna stay here,neutral,morning,46-60,Haiti,11402528,27560,414,happiness,['happiness'],True
+e401bc7cb1,want cookies,neutral,night,70-100,Ghana,31072940,227540,137,sadness,['sadness'],True
+8f65a41e73,well keep posted comes fully thanks,positive,noon,60-70,Tunisia,11818619,155360,76,df,['df'],True
+991f40579e,aha well im ashington going back old school sept become northumberland c e academy,neutral,noon,60-70,Poland,37846611,306000,124,happiness,['happiness'],True
+6a1d797fba,dont get car back til monday boooo,neutral,morning,0-20,Georgia,3989167,69490,57,anger,['anger'],True
+ec63552551,watching hairspray,neutral,noon,21-30,Romania,19237691,230170,84,happiness,['happiness'],True
+7b96952a0c,didnt cry end sad see last episode er man good series,neutral,night,70-100,Zimbabwe,14862924,386850,38,sadness,['sadness'],True
+6a5472922a,ill back home monday,neutral,night,70-100,Tonga,105695,720,147,df,['happiness'],False
+e1c85f0857,got them read  reply,neutral,night,31-45,Czechia (Czech Republic),10708981,77240,139,df,['sadness'],False
+de5773c63b,mean going block me,neutral,night,31-45,Monaco,39242,1,26337,surprise,['sadness'],False
+e726fc704c,last day exeter last session gym last breakfast last meeting coming,neutral,noon,60-70,Kenya,53771296,569140,94,sadness,['sadness'],True
+5648799bc4,_ellen  rescue bad hips deserves pampering full life though,neutral,morning,46-60,Haiti,11402528,27560,414,happiness,['sadness'],False
+85a1bc359b,home bed im super duper excited tomorrow,positive,morning,0-20,Trinidad and Tobago,1399488,5130,273,happiness,['happiness'],True
+42ba6c7e59,thinking summer,neutral,morning,46-60,Qatar,2881053,11610,248,sadness,['sadness'],True
+ff6c10ce0e,gentlemans agreement whoever wins first match or best three pays persons copy,neutral,night,70-100,Pakistan,220892340,770880,287,df,['df'],True
+ced5c302f5,listening jubey snoring phone hehe goodnight,positive,morning,0-20,Guinea,13132795,246000,53,happiness,['disgust'],False
+afd045a8c1,iphone poor credit cannot live without cell phone mass transit every day,negative,night,70-100,Suriname,586632,156000,4,anger,['sadness'],False
+e60cd123da,agree missed lot away busy like whole new place,negative,night,31-45,Finland,5540720,304000,18,sadness,['sadness'],True
+25e66aef86,thanks tweetstats confirmed long suspected twitter keeping way late ,negative,night,31-45,Senegal,16743927,192530,87,disgust,['disgust'],True
+e904d0cc6d,alright alright tuning taking notes  remember said got spot raising handz ,neutral,night,70-100,Finland,5540720,304000,18,df,['df'],True
+f9a1acf6b3,thanks people added skype want add me name twitter name yt name blogtv etc,positive,night,31-45,North Macedonia,2083374,25220,83,happiness,['df'],False
+6b748f5a24,six finals go,neutral,noon,60-70,Slovakia,5459642,48088,114,sadness,['sadness'],True
+ac876ae0c5,back weekend working yard open laptop once im thankful,positive,morning,46-60,Greece,10423054,128900,81,happiness,['happiness'],True
+6ecaa33c8a,massive headache,negative,morning,0-20,Belarus,9449323,202910,47,sadness,['sadness'],True
+beebadac85,em baby starts kindergarten crazy summer going be,positive,night,70-100,Australia,25499884,7682300,3,disgust,['disgust'],True
+2f0047bcad,laundry tonight too guess admit paved way,positive,morning,46-60,Georgia,3989167,69490,57,df,['df'],True
+cfbec13b5d,_dam haha would cool brianna fly haha,positive,morning,0-20,Saint Vincent and the Grenadines,110940,390,284,happiness,['happiness'],True
+e2a149bd12,im sitting altanta raining boston yay flying rain help fear,neutral,morning,46-60,Central African Republic,4829767,622980,8,fear,['fear'],True
+80c4f99a8b,alot new pictures tweets  really old new check new ones wish  tweeeet ,neutral,noon,21-30,Colombia,50882891,1109500,46,df,['happiness'],False
+e099bb04ab,madly love rowwishing money,positive,morning,46-60,Kazakhstan,18776707,2699700,7,sadness,['sadness'],True
+c63e6d1d8d,_inlapush misses quil so far away nickleback  ,negative,night,31-45,Guatemala,17915568,107160,167,sadness,['sadness'],True
+7c2a0bb3de,loving cairns clan,positive,morning,0-20,Bahrain,1701575,760,2239,happiness,['happiness'],True
+38a78f5522,got two thirds new moon three days eclipsethen work assignments sadly dnt write selves,negative,night,70-100,Bahamas,393244,10010,39,sadness,['sadness'],True
+7e1f400b72,realized cool enough ever get shout this player playing on hahahah,neutral,noon,21-30,Sudan,43849260,1765048,25,sadness,['sadness'],True
+82d211bdd5,think hate you didnt really want make hard like cake concert ,negative,night,70-100,India,1380004385,2973190,464,anger,['sadness'],False
+df7b4a0686,twitter journey now well okay,neutral,night,70-100,Brazil,212559417,8358140,25,anger,['anger'],True
+f25acf806f,bryan sweet  didnt think gonna talk towards end night talked,positive,noon,60-70,Armenia,2963243,28470,104,surprise,['happiness'],False
+7cf5f75c91,agreed though eclipse apps hinder collecting heap dump catching oome muck jconsole,positive,night,70-100,Thailand,69799978,510890,137,disgust,['disgust'],True
+4291725ecd,unusual,neutral,noon,21-30,Tunisia,11818619,155360,76,df,['happiness'],False
+237508c00a,worldwide number caause reason phone wont dial number,neutral,night,70-100,Laos,7275560,230800,32,anger,['anger'],True
+7a3245a6a8,decided go uni today suyr,neutral,morning,46-60,Kuwait,4270571,17820,240,happiness,['happiness'],True
+454666ed2d,awesome congrats completing it i cant believe cycled distance cottage though  day ,positive,noon,60-70,Palestine State,5101414,6020,847,happiness,['happiness'],True
+c5ba0e39b5,hi jonas brothers came argentina la otra vez,neutral,morning,0-20,Georgia,3989167,69490,57,df,['happiness'],False
+c4045dbafc,ya headin family vaca hope paparazzi leave alone,neutral,morning,0-20,Burundi,11890784,25680,463,happiness,['happiness'],True
+98c0376ba8,bahah would really funny would really cut haha,positive,morning,0-20,Brunei,437479,5270,83,happiness,['happiness'],True
+4a8224c204,happy got big choice make,negative,morning,0-20,Serbia,8737371,87460,100,sadness,['happiness'],False
+6a7d8d042c,_josa exciting looking forward pics facebook ,positive,morning,46-60,Serbia,8737371,87460,100,happiness,['df'],False
+8aab396dfb,whats dinner,neutral,night,31-45,Comoros,869601,1861,467,df,['happiness'],False
+66b7d26a3b,awhhh nice see you,positive,night,31-45,Laos,7275560,230800,32,happiness,['happiness'],True
+f6c6071761,rip little bird flew window snapping neck,negative,noon,60-70,North Korea,25778816,120410,214,sadness,['sadness'],True
+80c9638a76,well thank you ill try remember put somewhere,positive,noon,60-70,Azerbaijan,10139177,82658,123,happiness,['happiness'],True
+884db95b60,excuse theres me jkidding lolso long b yr fun night starts lol,positive,morning,46-60,Turkmenistan,6031200,469930,13,happiness,['happiness'],True
+b3175e5a2a,today wills first baseball game go bats,neutral,night,70-100,Saint Lucia,183627,610,301,happiness,['sadness'],False
+4ead488f3e,waited long buy pink tickets were going nose bleed sad were taking binoculars,negative,noon,21-30,Switzerland,8654622,39500,219,sadness,['sadness'],True
+de3c4f3168,aint blanco eitheryo  puerto rican mamiyo show muy amor yi tubut yo se,neutral,night,70-100,Sierra Leone,7976983,72180,111,happiness,['happiness'],True
+cb8ff954c0,new nick name  arosh i like like,positive,noon,60-70,Holy See,801,0,2003,happiness,['happiness'],True
+669ee0e843,cant that take  work it options here,neutral,morning,0-20,Afghanistan,38928346,652860,60,disgust,['happiness'],False
+fef84373a2,cuss u siad u itlol,neutral,night,31-45,Slovenia,2078938,20140,103,anger,['anger'],True
+71e1cf596a,go  want go most bro switch st time studentfinance ,neutral,morning,0-20,Kuwait,4270571,17820,240,happiness,['happiness'],True
+0bd0f61742,get ready school absolute wonderful day,positive,noon,21-30,Azerbaijan,10139177,82658,123,happiness,['happiness'],True
+95c7005fec,fun flashy fed hillim sure imported cheeto eating  fit lol,positive,noon,60-70,Moldova,4033963,32850,123,anger,['anger'],True
+99ce4e68b9,ohhhh sadi didnãâãâãâ½t get it,negative,night,31-45,Panama,4314767,74340,58,anger,['anger'],True
+697887b4a1,know want come keep company whilst mums friends night nice evening,positive,noon,21-30,Holy See,801,0,2003,happiness,['happiness'],True
+2af5610991,flippin sweet dudes thanks sharing,positive,noon,21-30,Kyrgyzstan,6524195,191800,34,happiness,['happiness'],True
+9a11572e70,happy mothers day mommies,positive,night,31-45,Liechtenstein,38128,160,238,happiness,['happiness'],True
+13a9290908,thanks thing much designart hardly ever get go at therefore never get much better,positive,night,31-45,Russia,145934462,16376870,9,sadness,['sadness'],True
+ed01460fd0,beats heat cool guava juice handi water,neutral,morning,46-60,Hungary,9660351,90530,107,happiness,['happiness'],True
+de8c4c410d,hell yeah,neutral,night,70-100,Honduras,9904607,111890,89,happiness,['happiness'],True
+9d4e0dc308,eh shut freeway down omw job interview guess im gonna late,negative,noon,21-30,Armenia,2963243,28470,104,anger,['sadness'],False
+5a95ed997b,got caught rain  people now probably gunna watch smallville till fall asleep,neutral,morning,0-20,Serbia,8737371,87460,100,sadness,['sadness'],True
+743691574d,im uploading videos youtube give link get loaded variety daily life amazing fun watch,neutral,noon,60-70,Grenada,112523,340,331,happiness,['happiness'],True
+196dbfc937,hello back work today week vacation ,neutral,night,70-100,Pakistan,220892340,770880,287,disgust,['happiness'],False
+ac19e04a4b,got bmth concert tickets  youknowimsofreshtilldeath,neutral,noon,60-70,Nicaragua,6624554,120340,55,surprise,['surprise'],True
+ecab325607,im back wooooo want press release ,positive,morning,46-60,Argentina,45195774,2736690,17,happiness,['happiness'],True
+e60af289e5,nd cant get fast enough,negative,night,70-100,Croatia,4105267,55960,73,happiness,['sadness'],False
+89607e1ed7,sounds great right now ridiculously hot house,neutral,morning,0-20,Kazakhstan,18776707,2699700,7,anger,['happiness'],False
+99853188fa,best check up down cant really see anything,positive,noon,21-30,CÃ´te d'Ivoire,26378274,318000,83,anger,['happiness'],False
+8c4d5e132f,well moving strength hypertrophy phase chest back shoulders arms next weeks legs stay behind,neutral,morning,0-20,China,1439323776,9388211,153,df,['df'],True
+e10b176e0d,sorry hear,negative,night,31-45,Mexico,128932753,1943950,66,sadness,['sadness'],True
+d7c8698a3c,wow party new life awesome girlfriends create tons drama babes party way go w ,neutral,morning,0-20,Haiti,11402528,27560,414,happiness,['happiness'],True
+f00076628b,welcome hun amazing people  make sure say hello them,positive,morning,46-60,Turkmenistan,6031200,469930,13,happiness,['happiness'],True
+1382e45cda,mcdonalds car ,neutral,morning,46-60,Kuwait,4270571,17820,240,happiness,['happiness'],True
+8503dfba02,gatorade first thing morning  yumyum feeling shattered must arise revise tomorrow,negative,noon,21-30,Somalia,15893222,627340,25,sadness,['df'],False
+1ca92c5dea,bums really look big,neutral,noon,21-30,Germany,83783942,348560,240,surprise,['sadness'],False
+bd59625046,blockbuster week new zealand  wolverine tomorrow followed star trek thursday,positive,noon,21-30,Kyrgyzstan,6524195,191800,34,surprise,['surprise'],True
+0a866e0046,_m yeeee wassup,neutral,night,31-45,Cabo Verde,555987,4030,138,happiness,['happiness'],True
+ff452af11f,separate desks computers sides room short dividersbut were thinking need extend ceiling,neutral,morning,46-60,Vanuatu,307145,12200,25,disgust,['disgust'],True
+917d998d63,happy morning sunshine may  im driving windows singing smiling wearing shoes im kirsten,positive,morning,46-60,Cuba,11326616,106440,106,happiness,['happiness'],True
+647fce402f,write real looking paper letter done one long time sad really,negative,night,70-100,Finland,5540720,304000,18,sadness,['sadness'],True
+feb8ed98d1,using imovie  still bad afraid hear wrong ,negative,morning,0-20,Bahrain,1701575,760,2239,fear,['sadness'],False
+f236be785a,sad day told students last year here lot crying since,negative,noon,60-70,Germany,83783942,348560,240,sadness,['sadness'],True
+657cf9d4ad,alright back twitter decompression happy monday folks whats good word,positive,noon,60-70,Slovakia,5459642,48088,114,df,['df'],True

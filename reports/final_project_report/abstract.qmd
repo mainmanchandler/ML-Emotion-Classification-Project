@@ -1,0 +1,17 @@
+# Abstract {.unnumbered}
+
+Preface
+With the growing interest in Machine Learning and Natural Language Processing (NLP) there is an interest in using machine learning models to establish the emotion of user text. Learning if there are correlations between user text to other data characteristics is of interest in this report in determining online human behavior. The purpose of this report is to establish the connection between user Tweets against other characteristics such as population density, to determine if there is a relationship between these characteristics and a Tweets evaluated emotion. 
+Abstract
+For this final project, we are looking at investigating natural language processing (NLP) and its relationship to emotion analysis in text. The two datasets that we will be exploring consist of approximately 27,500 tweets of training data and 3,500 tweets of testing data consisting of the following columns:
+textID
+text (in tweet)
+selected_text (in tweet)
+sentiment (negative, positive, neutral)
+time of tweet (morning, noon, night)
+country
+population
+land area
+population density
+The models that were trained using this dataset consist of a Logistic Regression model and Multinomial Naive Bayes model. The goal of these supervised models is to determine the emotional connotation of text within tweets to provide insight into new and pre-existing data for the questions mentioned in the objective above.
+
