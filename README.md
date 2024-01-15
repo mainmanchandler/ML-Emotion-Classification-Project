@@ -1,4 +1,4 @@
-Project a friend and I did for our machine learning course.
+This is a project my friend and I did for our machine learning course.
 
 
 Project Title
