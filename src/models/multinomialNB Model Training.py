@@ -12,10 +12,10 @@ import pandas as pd
 import numpy as np
 
 # %%
-#df = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/train_emotion_dataset.csv")
-#dftest = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/test_emotion_dataset.csv")
-df = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/combined_samples_gt.csv")
-#dftest = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/processed_test_sample_gt.csv")
+#df = pd.read_csv("/data/processed/train_emotion_dataset.csv")
+#dftest = pd.read_csv("/data/processed/test_emotion_dataset.csv")
+df = pd.read_csv("/data/processed/combined_samples_gt.csv")
+#dftest = pd.read_csv("/data/processed/processed_test_sample_gt.csv")
 df.head()
 
 # %%
@@ -43,7 +43,7 @@ y_pred_for_nv = nv_model.predict(X_test)
 y_pred_for_nv
 
 # %%
-test_text = ["I love love love this project this so much hehehehehhe"]
+test_text = ["I love love love this project this so much!"]
 test_vector = cv.transform(test_text).toarray()
 
 # %%
@@ -138,12 +138,12 @@ accuracy
 
 # %%
 # Export the dataset
-# df.to_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/interim/multinomialNB_model_training.csv", index = False)
+# df.to_csv("/data/interim/multinomialNB_model_training.csv", index = False)
 
 
 # %%
 # Get the original dataset and run the model prediction on the Tweets (non-samples)
-original_df = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/original_dataset.csv", encoding = "ISO-8859-1")
+original_df = pd.read_csv("/data/processed/original_dataset.csv", encoding = "ISO-8859-1")
 
 original_df = original_df.dropna()
 original_df['Predictions'] = ''

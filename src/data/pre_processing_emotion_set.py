@@ -22,9 +22,9 @@ Returns:
 def pre_process_emotion_training(input_filepath, output_filepath_train, output_filepath_test):
 
     # import data
-    dataset_testing = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/test_emotion_set.txt", delimiter=';', header=None, names=['Text', 'Emotion'])
-    dataset_training = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/train_emotion_set.txt", delimiter=';', header=None, names=['Text', 'Emotion'])
-    dataset_validation = pd.read_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/train_emotion_set.txt", delimiter=';', header=None, names=['Text', 'Emotion'])
+    dataset_testing = pd.read_csv("/data/raw/test_emotion_set.txt", delimiter=';', header=None, names=['Text', 'Emotion'])
+    dataset_training = pd.read_csv("/data/raw/train_emotion_set.txt", delimiter=';', header=None, names=['Text', 'Emotion'])
+    dataset_validation = pd.read_csv("/data/raw/train_emotion_set.txt", delimiter=';', header=None, names=['Text', 'Emotion'])
 
     #dataset_testing_small.head(20)
     #dataset_training_small.head()
@@ -71,7 +71,7 @@ def pre_process_emotion_training(input_filepath, output_filepath_train, output_f
 
 
 #change your filepath here and run the function to process the raw emotion training and testing datasets
-input_filepath = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/"
-output_filepath_train_sample = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/train_emotion_dataset.csv"
-output_filepath_test_sample = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/test_emotion_dataset.csv"
+input_filepath = "/data/raw/"
+output_filepath_train_sample = "/data/processed/train_emotion_dataset.csv"
+output_filepath_test_sample = "/data/processed/test_emotion_dataset.csv"
 pre_process_emotion_training(input_filepath, output_filepath_train_sample, output_filepath_test_sample) 

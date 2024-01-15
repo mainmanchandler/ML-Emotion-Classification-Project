@@ -93,8 +93,8 @@ def preprocessing(input_filepath, output_filepath): #, output_filepath_train_sam
     
 
 #change your filepath here and run the function to process the raw dataset
-input_filepath = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/"
-output_filepath = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/original_dataset.csv"
+input_filepath = "/data/raw/"
+output_filepath = "/data/processed/original_dataset.csv"
 #preprocessing(input_filepath, output_filepath) 
 
 
@@ -148,9 +148,9 @@ def create_human_review_sample_set(input_filepath, output_raw_filepath_train, ou
 
 
 #change your filepath here and run the function to create sample datasets
-input_filepath = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/"
-output_raw_filepath_train_sample = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/train_sample.csv"
-output_raw_filepath_test_sample = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/test_sample.csv"
+input_filepath = "/data/raw/"
+output_raw_filepath_train_sample = "/data/raw/train_sample.csv"
+output_raw_filepath_test_sample = "/data/raw/test_sample.csv"
 #create_human_review_sample_set(input_filepath, output_raw_filepath_train_sample, output_raw_filepath_test_sample) 
 
 
@@ -223,7 +223,7 @@ def preprocess_samples(input_filepath, output_filepath_train_sample_processed, o
     df['Tweet'] = df['Tweet'].apply(remove_numerical_values)
 
     ##### Split the data into training and testing #####
-    df.to_csv("C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/combined_samples_gt.csv", index = False)
+    df.to_csv("/data/processed/combined_samples_gt.csv", index = False)
 
     #train, test = train_test_split(df, test_size=0.2)
     
@@ -233,7 +233,7 @@ def preprocess_samples(input_filepath, output_filepath_train_sample_processed, o
 
 
 #change your filepath here and run the function to process the raw sample datasets
-input_filepath = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/raw/"
-output_filepath_train_sample_processed = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/processed_trained_sample_gt.csv"
-output_filepath_test_sample_processed = "C:/Users/chand/OneDrive/Documents/Bruh/final-project-190688910-190988840/data/processed/processed_test_sample_gt.csv"
+input_filepath = "/data/raw/"
+output_filepath_train_sample_processed = "/data/processed/processed_trained_sample_gt.csv"
+output_filepath_test_sample_processed = "/data/processed/processed_test_sample_gt.csv"
 preprocess_samples(input_filepath, output_filepath_train_sample_processed, output_filepath_test_sample_processed) 
