@@ -1,6 +1,3 @@
-This is a project my friend and I did for our machine learning course.
-
-
 Project Title
 ==============================
 Text-Based Emotional Classification in Tweets 
